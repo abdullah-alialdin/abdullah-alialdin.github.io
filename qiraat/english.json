@@ -5,40 +5,12 @@
          "radio_url":"http://live.mp3quran.net:9956/;"
       },
       {
-         "name":"Abdulbasit Abdulsamad - Warsh",
-         "radio_url":"http://server2.quraan.us:9810/;*.mp3"
-      },
-      {
-         "name":"Abdulrasheed Soufi - Abu Al-Harith",
-         "radio_url":"http://quraan.us:9836/;*.mp3"
-      },
-      {
-         "name":"Abdulrasheed Soufi - Al-Duri",
-         "radio_url":"http://server2.quraan.us:9830/;*.mp3"
-      },
-      {
-         "name":"Abdulrasheed Soufi - Alsossi",
-         "radio_url":"http://server2.quraan.us:9826/;*.mp3"
-      },
-      {
          "name":"Abdulrasheed Soufi - Alsossi",
          "radio_url":"http://live.mp3quran.net:9866/;"
       },
       {
          "name":"Abdulrasheed Soufi - Khalaf",
-         "radio_url":"http://server2.quraan.us:9824/;*.mp3"
-      },
-      {
-         "name":"Abdulrasheed Soufi - Khalaf",
          "radio_url":"http://live.mp3quran.net:9864/;"
-      },
-      {
-         "name":"Abdulrasheed Soufi - Shubah",
-         "radio_url":"http://quraan.us:9866/;*.mp3"
-      },
-      {
-         "name":"Addokali Mohammad Alalim - Qalon",
-         "radio_url":"http://server2.quraan.us:9818/;*.mp3"
       },
       {
          "name":"Addokali Mohammad Alalim - Qalon",
@@ -50,15 +22,7 @@
       },
       {
          "name":"Ahmed Al-trabulsi - Qalon",
-         "radio_url":"http://server2.quraan.us:9820/;*.mp3"
-      },
-      {
-         "name":"Ahmed Al-trabulsi - Qalon",
          "radio_url":"http://live.mp3quran.net:9926/;"
-      },
-      {
-         "name":"Alfateh Alzubair - Aldori",
-         "radio_url":"http://server2.quraan.us:9832/;*.mp3"
       },
       {
          "name":"Alfateh Alzubair - Aldori",
@@ -66,15 +30,7 @@
       },
       {
          "name":"Ali Alhuthaifi - Qalon",
-         "radio_url":"http://server2.quraan.us:9816/;*.mp3"
-      },
-      {
-         "name":"Ali Alhuthaifi - Qalon",
          "radio_url":"http://live.mp3quran.net:9844/;"
-      },
-      {
-         "name":"Aloyoon Al-Koshi - Warsh",
-         "radio_url":"http://quraan.us:9876/;*.mp3"
       },
       {
          "name":"Aloyoon Al-Koshi - Warsh",
@@ -82,15 +38,7 @@
       },
       {
          "name":"Ibrahim Aldosari - Warsh",
-         "radio_url":"http://server2.quraan.us:9812/;*.mp3"
-      },
-      {
-         "name":"Ibrahim Aldosari - Warsh",
          "radio_url":"http://live.mp3quran.net:9902/;"
-      },
-      {
-         "name":"Magdy Al-Biltagi - Dhakwan",
-         "radio_url":"http://quraan.us:9864/;*.mp3"
       },
       {
          "name":"Mahmood AlSheimy - Aldori",
@@ -99,18 +47,6 @@
       {
          "name":"Mahmoud Khalil Al-Hussary - Warsh",
          "radio_url":"http://live.mp3quran.net:9958/;"
-      },
-      {
-         "name":"Mahmoud Khalil Al-Hussary - Qalon",
-         "radio_url":"http://server2.quraan.us:9814/;*.mp3"
-      },
-      {
-         "name":"Mahmoud Khalil Al-Hussary - Aldori",
-         "radio_url":"http://quraan.us:9870/;*.mp3"
-      },
-      {
-         "name":"Mohammad Al-Tayyib Himdan - Warsh",
-         "radio_url":"http://server2.quraan.us:9806/;*.mp3"
       },
       {
          "name":"Mohammad Abdullkarem - Warsh",
@@ -126,10 +62,6 @@
       },
       {
          "name":"Muftah Alsaltany - Aldori",
-         "radio_url":"http://server2.quraan.us:9828/;*.mp3"
-      },
-      {
-         "name":"Muftah Alsaltany - Aldori",
          "radio_url":"http://live.mp3quran.net:9794/;"
       },
       {
@@ -137,28 +69,8 @@
          "radio_url":"http://live.mp3quran.net:9792/;"
       },
       {
-         "name":"Muftah Alsaltany - Ruways",
-         "radio_url":"http://server2.quraan.us:9800/;*.mp3"
-      },
-      {
-         "name":"Muftah Alsaltany - Ibn Jummaz",
-         "radio_url":"http://server2.quraan.us:9942/;*.mp3"
-      },
-      {
-         "name":"Muftah Alsaltany - Ruh",
-         "radio_url":"http://server2.quraan.us:9872/;*.mp3"
-      },
-      {
          "name":"Muftah Alsaltany - Thakwan",
          "radio_url":"http://live.mp3quran.net:9788/;"
-      },
-      {
-         "name":"Mustafa Gharbi - Warsh",
-         "radio_url":"http://server2.quraan.us:9804/;*.mp3"
-      },
-      {
-         "name":"Omar Al-Qazabri - Warsh",
-         "radio_url":"http://server2.quraan.us:9808/;*.mp3"
       },
       {
          "name":"Omar Al-Qazabri - Warsh",
@@ -174,23 +86,11 @@
       },
       {
          "name":"Yasin Al-Jazairi - Warsh",
-         "radio_url":"http://server2.quraan.us:9802/;*.mp3"
-      },
-      {
-         "name":"Yasin Al-Jazairi - Warsh",
          "radio_url":"http://live.mp3quran.net:9908/;"
       },
       {
          "name":"Yasser Al-Mazroyee - Ruways",
          "radio_url":"http://live.mp3quran.net:9774/;"
       },
-      {
-         "name":"Yasser Al-Mazroyee - Ruways",
-         "radio_url":"http://server2.quraan.us:9822/;*.mp3"
-      },
-      {
-         "name":"Yousef Bin Noah Ahmad - Al-Bizzi",
-         "radio_url":"http://quraan.us:9868/;*.mp3"
-      }
    ]
 }

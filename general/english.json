@@ -20,15 +20,27 @@
     "radio_url":"http://live.mp3quran.net:9722/;"
   },
   {
-    "name":"FATAWA-1",
-    "radio_url":"http://server2.quraan.us:9890/;*.mp3"
-  },
-  {
     "name":"FATAWA-2",
     "radio_url":"http://live.mp3quran.net:8014/;"
   },
   {
     "name":"EID's TAKBEER",
     "radio_url":"http://live.mp3quran.net:9728/;"
+  },
+  {
+    "name":"Roqyah-1",
+    "radio_url":"http://live.mp3quran.net:9936/;"
+  },
+  {
+    "name":"Roqyah-2",
+    "radio_url":"http://104.7.66.64:8004/;?icy=http"
+  },
+  {
+    "name":"Quran Tafseer-1",
+    "radio_url":"http://live.mp3quran.net:9718/;"
+  },
+  {
+    "name":"Quran Tafseer-2",
+    "radio_url":"http://104.7.66.64:8088/;?icy=http"
   }
 ]}

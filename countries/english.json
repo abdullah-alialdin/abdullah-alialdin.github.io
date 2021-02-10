@@ -1,16 +1,8 @@
 {
    "radios":[
       {
-         "name":"Algeria-Quran Radio",
-         "radio_url":"https://coran.ice.infomaniak.ch/coran.aac"
-      },
-      {
          "name":"Australia-Al Bayan Radio",
          "radio_url":"http://s9.viastreaming.net:9645/;stream/1"
-      },
-      {
-         "name":"Australia-QK Radio Al Quran Al Kareem",
-         "radio_url":"http://listen.qkradio.com.au:8382/listen.mp3"
       },
       {
          "name":"Australia-Al Quran Kareem Radio",
@@ -33,16 +25,8 @@
          "radio_url":"http://104.7.66.64:8002/;?icy=http"
       },
       {
-         "name":"Chile-Radio Islam",
-         "radio_url":"https://centova.neonetwork.cl:9031/live"
-      },
-      {
          "name":"China-Quran in Chinese",
          "radio_url":"http://206.72.199.178:9994/;"
-      },
-      {
-         "name":"China-Radio Sunnah Al-Quran",
-         "radio_url":"http://radiosunnah.my:8000/idle"
       },
       {
          "name":"Egypt-Quran Radio",
@@ -85,10 +69,6 @@
          "radio_url":"http://ch1.radiosilaturahim.com:8000/stereo"
       },
       {
-         "name":"Iraq-Quran Radio",
-         "radio_url":"http://stream.zenolive.com/wvgmw60hy9duv"
-      },
-      {
          "name":"Italy-Lezioni Islamiche",
          "radio_url":"http://104.7.66.64:8094/;?icy=http"
       },
@@ -113,12 +93,8 @@
          "radio_url":"https://radio.alukah.net/alfikr"
       },
       {
-         "name":"Kuwait-QURAN LIVE RADIO",
+         "name":"Kuwait-Quran live radio",
          "radio_url":"http://s2.voscast.com:12312/;"
-      },
-      {
-         "name":"Kuwait-Shams Al-Islam Radio",
-         "radio_url":"http://server2.quraan.us:9322/;*.mp3"
       },
       {
          "name":"Kuwait-Umm al-Quwain Quran",
@@ -141,10 +117,6 @@
          "radio_url":"http://178.obj.netromedia.net:8028/;"
       },
       {
-         "name":"Malaysia-Radio Sunnah",
-         "radio_url":"http://radiosunnah.my:8000/live"
-      },
-      {
          "name":"Morocco-Quran Radio",
          "radio_url":"http://92.222.103.13:8005/stream/1/"
       },
@@ -161,7 +133,7 @@
          "radio_url":"http://104.7.66.64:8092/;?icy=http"
       },
       {
-         "name":"Pakistan-QURAN RADIO",
+         "name":"Pakistan-Quran radio",
          "radio_url":"http://s2.reliastream.com:8239/Tune-In%20Links/;"
       },
       {
@@ -179,22 +151,6 @@
       {
          "name":"South Africa-Radio Islam International",
          "radio_url":"http://listen.radioislam.co.za:8080/radioislam.mp3"
-      },
-      {
-         "name":"South Arica-Radio Islam",
-         "radio_url":"http://listen.radioislam.org.za:8080/radioislam.mp3"
-      },
-      {
-         "name":"South Africa-Sirius FM",
-         "radio_url":"http://s8.voscast.com:7112/;"
-      },
-      {
-         "name":"South Africa-Sirius FM",
-         "radio_url":"http://s8.voscast.com:7112/;"
-      },
-      {
-         "name":"South Africa-Sirius FM",
-         "radio_url":"http://s8.voscast.com:7112/;"
       },
       {
          "name":"Spain-Charlas Islamicas",
@@ -215,14 +171,6 @@
       {
          "name":"Turky-Cansuyu FM",
          "radio_url":"http://radyodinle.cansuyufm.com:17175/;"
-      },
-      {
-         "name":"UAE-Dubai Holy Quran",
-         "radio_url":"http://uk5.internet-radio.com:8079/stream"
-      },
-      {
-         "name":"UAE-Sharjah Quran Radio",
-         "radio_url":"https://l3.itworkscdn.net/smcquranlive/quranradiolive/icecast.audio"
       },
       {
          "name":"UAE-Zayed Quran",
@@ -267,10 +215,6 @@
       {
          "name":"USA-Women’s Wisdom",
          "radio_url":"https://edge.mixlr.com/channel/eterm"
-      },
-      {
-         "name":"USA-Quran Audio Recitation",
-         "radio_url":"http://mediaserver2.islamicity.com:8000/QuranRadio"
       }
    ]
 }
