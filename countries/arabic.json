@@ -1,0 +1,276 @@
+{
+   "radios":[
+      {
+         "name":"اثيوبيا - الاذاعة الأمهرية",
+         "radio_url":"http://104.7.66.64:8000/;?icy=http"
+      },
+      {
+         "name":"اريتريا - محاضرات اسلامية",
+         "radio_url":"http://104.7.66.64:8090/;?icy=http"
+      },
+      {
+         "name":"اسبانيا - محادثات اسلامية",
+         "radio_url":"http://104.7.66.64:8093/;?icy=http"
+      },
+      {
+         "name":"اسبانيا - راديو الاسلام",
+         "radio_url":"http://66.45.232.134:9996/;"
+      },
+      {
+         "name":"استراليا - راديو البيان",
+         "radio_url":"http://s9.viastreaming.net:9645/;stream/1"
+      },
+      {
+         "name":"استراليا - اذاعة القرآن الكريم",
+         "radio_url":"http://listen.qkradio.com.au:8382/listen.mp3"
+      },
+      {
+         "name":"استراليا - اسلام اليوم للاناشيد",
+         "radio_url":"http://islam2day.tv:8000/;"
+      },
+      {
+         "name":"استراليا - اسلام اليوم للقرآن الكريم",
+         "radio_url":"http://islam2day.tv:3000/;"
+      },
+      {
+         "name":"استراليا - راديو القرآن الكريم",
+         "radio_url":"http://listen.qkradio.com.au:8382/listen.mp3"
+      },
+      {
+         "name":"الامارات - اذعة دبي للقرآن الكريم",
+         "radio_url":"http://uk5.internet-radio.com:8079/stream"
+      },
+      {
+         "name":"الامارات - اذاعة الشارقة للقرآن الكريم",
+         "radio_url":"https://l3.itworkscdn.net/smcquranlive/quranradiolive/icecast.audio"
+      },
+      {
+         "name":"الامارات المتحدة - اذاعة زايد للقرآن الكريم",
+         "radio_url":"https://zayedquran.gov.ae/stream.php"
+      },
+      {
+         "name":"البرازيل - محاضرات اسلامية بالبرتغالية",
+         "radio_url":"http://104.7.66.64:8086/;?icy=http"
+      },
+      {
+         "name":"الجزائر - اذاعة القرآن الكريم",
+         "radio_url":"https://coran.ice.infomaniak.ch/coran.aac"
+      },
+      {
+         "name":"السعودية - اذاعة مكة للقرآن الكريم",
+         "radio_url":"http://n05.radiojar.com/4wqre23fytzuv?rj-ttl=5&rj-tok=AAABdx73PHEA6O-Q8GLSCrhRTQ"
+      },
+      {
+         "name":"السعودية - راديو الحرمين للسنة",
+         "radio_url":"http://212.32.255.144:9304/stream.mp3"
+      },
+      {
+         "name":"السعودية - ألوكا للقرآن الكريم",
+         "radio_url":"https://radio.alukah.net/quran"
+      },
+      {
+         "name":"السعودية - ألوكا لعلوم القرآن",
+         "radio_url":"https://radio.alukah.net/ulumalquran"
+      },
+      {
+         "name":"السعودية - ألوكا الفكر الاسلامي",
+         "radio_url":"https://radio.alukah.net/alfikr"
+      },
+      {
+         "name":"السنغال - اذاعة تفسير القرآن",
+         "radio_url":"https://betelgeuse.dribbcast.com/proxy/tafsircoran?mp=/stream"
+      },
+      {
+         "name":"السودان - اذاعة الزين للقرآن الكريم",
+         "radio_url":"http://orion.shoutca.st:8118/stream"
+      },
+      {
+         "name":"الصين - الراديو الاسلامي",
+         "radio_url":"http://104.7.66.64:8002/;?icy=http"
+      },
+      {
+         "name":"الصين - القرآن بالصينية",
+         "radio_url":"http://206.72.199.178:9994/;"
+      },
+      {
+         "name":"الصين - راديو السنة والقرآن",
+         "radio_url":"http://radiosunnah.my:8000/idle"
+      },
+      {
+         "name":"العراق - اذاعة القرآن الكريم",
+         "radio_url":"http://stream.zenolive.com/wvgmw60hy9duv"
+      },
+      {
+         "name":"الكويت - اذاعة القرآن الكريم",
+         "radio_url":"http://s2.voscast.com:12312/;"
+      },
+      {
+         "name":"الكويت - اذاعة شمس القرآن",
+         "radio_url":"http://server2.quraan.us:9322/;*.mp3"
+      },
+      {
+         "name":"الكويت - اذاعة ام القوين للقرآن الكريم",
+         "radio_url":"http://ca.rcast.net:8058/;stream.mp3"
+      },
+      {
+         "name":"المانيا - محاضرات بالالمانية",
+         "radio_url":"http://104.7.66.64:9011/;?icy=http"
+      },
+      {
+         "name":"المغرب - اذاعة القرآن الكريم",
+         "radio_url":"http://92.222.103.13:8005/stream/1/"
+      },
+      {
+         "name":"المملكة المتحدة - اذاعة صوت الاسلام",
+         "radio_url":"http://s6.voscast.com:9980/live.mp3"
+      },
+      {
+         "name":"المملكة المتحدة - راديو الهلال",
+         "radio_url":"http://icecast.commedia.org.uk:8000/crescent.mp3"
+      },
+      {
+         "name":"المملكة المتحدة - راديو التراث",
+         "radio_url":"http://193.218.160.11:8009/heritageradio1602"
+      },
+      {
+         "name":"المملكة المتحدة - محاضرات اسلامية",
+         "radio_url":"http://centauri.shoutca.st:8600/;"
+      },
+      {
+         "name":"الهند - راديو الاسلام",
+         "radio_url":"http://radioislamin.out.airtime.pro:8000/radioislamin_a"
+      },
+      {
+         "name":"الهند - راديو ولاية كيرالا مالابار الإسلامية",
+         "radio_url":"http://s4.voscast.com:8068/;"
+      },
+      {
+         "name":"الولايات المتحدة - القرآن للقلب",
+         "radio_url":"https://edge.mixlr.com/channel/rwumx"
+      },
+      {
+         "name":"الولايات المتحدة - اذاعة تفسير القرآن",
+         "radio_url":"http://104.7.66.64:8088/;?icy=http"
+      },
+      {
+         "name":"الولايات المتحدة - اذاعة السيرة النبوية",
+         "radio_url":"http://104.7.66.64:8089/;?icy=http"
+      },
+      {
+         "name":"الولايات المتحدة - اذاعة رياض الصالحين",
+         "radio_url":"http://104.7.66.64:8085/;?icy=http"
+      },
+      {
+         "name":"الولايات المتحدة - اذاعة ديناجرز للشباب",
+         "radio_url":"http://104.7.66.64:8003/;?icy=http"
+      },
+      {
+         "name":"الولايات المتحدة - راديو الحج",
+         "radio_url":"http://104.7.66.64:8005/;?icy=http"
+      },
+      {
+         "name":"الولايات المتحدة - احكام المرأة",
+         "radio_url":"https://edge.mixlr.com/channel/eterm"
+      },
+      {
+         "name":"الولايات المتحدة - اذاعة القرآن الكريم",
+         "radio_url":"http://mediaserver2.islamicity.com:8000/QuranRadio"
+      },
+      {
+         "name":"اندونيسيا - تجمع راديو لاتانزا",
+         "radio_url":"http://ch1.radiosilaturahim.com:8000/stereo"
+      },
+      {
+         "name":"ايطاليا - دروس اسلامية",
+         "radio_url":"http://104.7.66.64:8094/;?icy=http"
+      },
+      {
+         "name":"باكستان - اذاعة صوت القرآن",
+         "radio_url":"http://58.65.171.102:8004/stream?type=http&nocache=4"
+      },
+      {
+         "name":"باكستان - محاضرات اسلامية",
+         "radio_url":"http://104.7.66.64:8092/;?icy=http"
+      },
+      {
+         "name":"باكستان - اذاعة القرآن الكريم",
+         "radio_url":"http://s2.reliastream.com:8239/Tune-In%20Links/;"
+      },
+      {
+         "name":"تونس - اذاعة القرآن الكريم ",
+         "radio_url":"http://5.135.194.225:8000/live"
+      },
+      {
+         "name":"تشيلي - راديو الاسلام",
+         "radio_url":"https://centova.neonetwork.cl:9031/live"
+      },
+      {
+         "name":"تايلاند - راديو الاسلام",
+         "radio_url":"http://radio12.plathong.net/7234/;stream.mp3"
+      },
+      {
+         "name":"تركيا - اذاعة ماء الحياة",
+         "radio_url":"http://radyodinle.cansuyufm.com:17175/;"
+      },
+      {
+         "name":"جنوب افريقيا - اذاعة الاسلام العالمية",
+         "radio_url":"http://listen.radioislam.co.za:8080/radioislam.mp3"
+      },
+      {
+         "name":"جنوب افريقيا راديو الاسلام",
+         "radio_url":"http://listen.radioislam.org.za:8080/radioislam.mp3"
+      },
+      {
+         "name":"جنوب افريقيا - سيريوس اف ام",
+         "radio_url":"http://s8.voscast.com:7112/;"
+      },
+      {
+         "name":"روسيا - راديو فاتان",
+         "radio_url":"http://air.radio-dialog.ru:8001/radiovatan"
+      },
+      {
+         "name":"فرنسا - مؤتمرات بالفرنسية",
+         "radio_url":"http://104.7.66.64:8099/;?icy=http"
+      },
+      {
+         "name":"فرنسا - خوجاراديو للقرآن الكريم",
+         "radio_url":"http://live1.vestaradio.com/KHOJARADIO4quran"
+      },
+      {
+         "name":"فلسطين - اذاعة القرآن الكريم",
+         "radio_url":"http://www.quran-radio.org:8002/;stream/1"
+      },
+      {
+         "name":"ليبيا - اذاعة الكتاب والسنة بالعربي",
+         "radio_url":"http://162.244.80.118:5678/stream"
+      },
+      {
+         "name":"ليبيا - اذاعة الكتاب والسنة بالانجليزي",
+         "radio_url":"http://162.244.80.52:6656/stream"
+      },
+      {
+         "name":"ليبيا - اذاعة طريق السلف",
+         "radio_url":"http://www.salafwayfm.ly:8000/fm"
+      },
+      {
+         "name":"مالاوي - راديو الاسلام",
+         "radio_url":"http://178.obj.netromedia.net:8028/;"
+      },
+      {
+         "name":"ماليزيا - راديو السنة",
+         "radio_url":"http://radiosunnah.my:8000/live"
+      },
+      {
+         "name":"مصر - اذاعة القرآن الكريم",
+         "radio_url":"http://stream.radiojar.com/8s5u5tpdtwzuv"
+      },
+      {
+         "name":"مصر - اذاعة نهر النيل",
+         "radio_url":"http://104.7.66.64:8087/;?icy=http"
+      },
+      {
+         "name":"نيوزيلاندا - اذاعة القرآن الكريم",
+         "radio_url":"http://92.222.103.14:8005/;"
+      }
+   ]
+}

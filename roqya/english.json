@@ -1,0 +1,14 @@
+{"radios": [
+  {
+    "name":"ROQYAH-1",
+    "radio_url":"http://quraan.us:9798/;*.mp3"
+  },
+  {
+    "name":"ROQYAH-2",
+    "radio_url":"http://live.mp3quran.net:9936/;"
+  },
+  {
+    "name":"ROQYAH-3",
+    "radio_url":"http://104.7.66.64:8004/;?icy=http"
+  }
+]}

@@ -1,0 +1,34 @@
+{"radios": [
+  {
+    "name":"الاذاعة العامة -1",
+    "radio_url":"http://66.45.232.131:9994/;"
+  },
+  {
+    "name":"الاذاعة العامة -2",
+    "radio_url":"http://live.mp3quran.net:8006/;"
+  },
+  {
+    "name":"تراتيل قصيرة متميزة",
+    "radio_url":"http://live.mp3quran.net:9702/;"
+  },
+  {
+    "name":"تلاوات خاشعة",
+    "radio_url":"http://live.mp3quran.net:9992/;"
+  },
+  {
+    "name":"سورة البقرة - لعدد من القراء",
+    "radio_url":"http://live.mp3quran.net:9722/;"
+  },
+  {
+    "name":"الفتاوى -1",
+    "radio_url":"http://server2.quraan.us:9890/;*.mp3"
+  },
+  {
+    "name":"الفتاوى -2",
+    "radio_url":"http://live.mp3quran.net:8014/;"
+  },
+  {
+    "name":"تكبيرات العيد",
+    "radio_url":"http://live.mp3quran.net:9728/;"
+  }
+]}

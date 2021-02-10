@@ -1,0 +1,34 @@
+{"radios": [
+  {
+    "name":"General Recitations -1",
+    "radio_url":"http://66.45.232.131:9994/;"
+  },
+  {
+    "name":"General Recitations -2",
+    "radio_url":"http://live.mp3quran.net:8006/;"
+  },
+  {
+    "name":"Amazing short Recitations",
+    "radio_url":"http://live.mp3quran.net:9702/;"
+  },
+  {
+    "name":"Beautiful Recitations",
+    "radio_url":"http://live.mp3quran.net:9992/;"
+  },
+  {
+    "name":"Surah Al-Baqarah - Many Reciters",
+    "radio_url":"http://live.mp3quran.net:9722/;"
+  },
+  {
+    "name":"FATAWA-1",
+    "radio_url":"http://server2.quraan.us:9890/;*.mp3"
+  },
+  {
+    "name":"FATAWA-2",
+    "radio_url":"http://live.mp3quran.net:8014/;"
+  },
+  {
+    "name":"EID's TAKBEER",
+    "radio_url":"http://live.mp3quran.net:9728/;"
+  }
+]}

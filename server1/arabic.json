@@ -1,0 +1,180 @@
+{
+   "radios":[
+      {
+         "name":"إبراهيم الأخضر",
+         "radio_url":"http://server2.quraan.us:9840/;*.mp3"
+      },
+      {
+         "name":"إدريس أبكر",
+         "radio_url":"http://server2.quraan.us:9300/;*.mp3"
+      },
+      {
+         "name":"أحمد العجمي",
+         "radio_url":"http://server2.quraan.us:9852/;*.mp3"
+      },
+      {
+         "name":"توفيق الصائغ",
+         "radio_url":"http://quraan.us:9796/;*.mp3"
+      },
+      {
+         "name":"جزاع الصويلح",
+         "radio_url":"http://server2.quraan.us:9780/;*.mp3"
+      },
+      {
+         "name":"خالد القحطاني",
+         "radio_url":"http://quraan.us:9900/;*.mp3"
+      },
+      {
+         "name":"خالد الجليل",
+         "radio_url":"http://server2.quraan.us:9794/;*.mp3"
+      },
+      {
+         "name":"خليفة الطنيجي",
+         "radio_url":"http://server2.quraan.us:9838/;*.mp3"
+      },
+      {
+         "name":"زكي داغستاني",
+         "radio_url":"http://server2.quraan.us:9792/;*.mp3"
+      },
+      {
+         "name":"سعد الغامدي",
+         "radio_url":"http://server2.quraan.us:9854/;*.mp3"
+      },
+      {
+         "name":"سعود الشريم",
+         "radio_url":"http://quraan.us:9848/;*.mp3"
+      },
+      {
+         "name":"شيخ أبوبكر الشاطري",
+         "radio_url":"http://quraan.us:9892/;*.mp3"
+      },
+      {
+         "name":"شايع التميمي",
+         "radio_url":"http://server2.quraan.us:9320/;*.mp3"
+      },
+      {
+         "name":"عبدالباري الثبيتي",
+         "radio_url":"http://server2.quraan.us:9790/;*.mp3"
+      },
+      {
+         "name":"عبدالباسط عبدالصمد",
+         "radio_url":"http://quraan.us:9916/;*.mp3"
+      },
+      {
+         "name":"عبدالعزيز الاحمد",
+         "radio_url":"http://quraan.us:9914/;*.mp3"
+      },
+      {
+         "name":"عبدالعزيز الزهراني",
+         "radio_url":"http://server2.quraan.us:9302/;*.mp3"
+      },
+      {
+         "name":"عبدالله الجهني",
+         "radio_url":"http://server2.quraan.us:9910/;*.mp3"
+      },
+      {
+         "name":"عبدالله بصفر",
+         "radio_url":"http://quraan.us:9846/;*.mp3"
+      },
+      {
+         "name":"عبدالله الخياط",
+         "radio_url":"http://server2.quraan.us:9908/;*.mp3"
+      },
+      {
+         "name":"عبدالمحسن القاسم",
+         "radio_url":"http://quraan.us:9842/;*.mp3"
+      },
+      {
+         "name":"عبدالرحمن العوس",
+         "radio_url":"http://quraan.us:9778/;*.mp3"
+      },
+      {
+         "name":"عبدالرحمن السديس",
+         "radio_url":"http://quraan.us:9850/;*.mp3"
+      },
+      {
+         "name":"عبدالوالي الأركاني",
+         "radio_url":"http://quraan.us:9304/;*.mp3"
+      },
+      {
+         "name":"على الحزيفي",
+         "radio_url":"http://quraan.us:9844/;*.mp3"
+      },
+      {
+         "name":"على جابر",
+         "radio_url":"http://quraan.us:9912/;*.mp3"
+      },
+      {
+         "name":"فارس عباد",
+         "radio_url":"http://server2.quraan.us:9904/;*.mp3"
+      },
+      {
+         "name":"فهد الكندري",
+         "radio_url":"http://server2.quraan.us:9306/;*.mp3"
+      },
+      {
+         "name":"ماهر المعيقلي",
+         "radio_url":"http://server2.quraan.us:9856/;*.mp3"
+      },
+      {
+         "name":"محمود علي البنا",
+         "radio_url":"http://server2.quraan.us:9788/;*.mp3"
+      },
+      {
+         "name":"محمود خليل الحصري",
+         "radio_url":"http://quraan.us:9920/;*.mp3"
+      },
+      {
+         "name":"مشاري العفاسي",
+         "radio_url":"http://server2.quraan.us:9922/;*.mp3"
+      },
+      {
+         "name":"محمد الطبلاوي",
+         "radio_url":"http://quraan.us:9882/;*.mp3"
+      },
+      {
+         "name":"محمد اللحيدان",
+         "radio_url":"http://server2.quraan.us:9898/;"
+      },
+      {
+         "name":"محمد أيوب",
+         "radio_url":"http://server2.quraan.us:9896/;*.mp3"
+      },
+      {
+         "name":"محمد جبريل",
+         "radio_url":"http://quraan.us:9894/;*.mp3"
+      },
+      {
+         "name":"محمد صديق المنشاوي - مرتل",
+         "radio_url":"http://server2.quraan.us:9918/;*.mp3"
+      },
+      {
+         "name":"محمد صديق المنشاوي - مجود",
+         "radio_url":"http://quraan.us:9776/;*.mp3"
+      },
+      {
+         "name":"محمد صديق المنشاوي - المعلم",
+         "radio_url":"http://server2.quraan.us:9308/;*.mp3"
+      },
+      {
+         "name":"مصطفى اسماعيل",
+         "radio_url":"http://quraan.us:9786/;*.mp3"
+      },
+      {
+         "name":"ناصر القطامي",
+         "radio_url":"http://server2.quraan.us:9886/;*.mp3"
+      },
+      {
+         "name":"هاني الرفاعي",
+         "radio_url":"http://quraan.us:9902/;*.mp3"
+      },
+      {
+         "name":"وديع اليمني",
+         "radio_url":"http://server2.quraan.us:9784/;*.mp3"
+      },
+      {
+         "name":"ياسر الدوسري",
+         "radio_url":"http://quraan.us:9884/;*.mp3"
+      }
+   ]
+}
