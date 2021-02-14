@@ -1,183 +1,183 @@
 {
    "radios":[
       {
-         "name":"القرآن بالبتشو",
+         "name":"Alcorão em pashto",
          "radio_url":"http://server2.quraan.us:9874/;*.mp3"
       },
       {
-         "name":"القرآن بالبنغالي",
+         "name":"Alcorão em bengali",
          "radio_url":"http://server2.quraan.us:9998/;*.mp3"
       },
       {
-         "name":"القرآن بالاغور",
+         "name":"Alcorão em Uigur",
          "radio_url":"http://server2.quraan.us:9950/;*.mp3"
       },
       {
-         "name":"القرآن بالاندونيسي",
+         "name":"Alcorão em indonésio",
          "radio_url":"http://server2.quraan.us:9978/;*.mp3"
       },
       {
-         "name":"القرآن بالتاميلي",
+         "name":"Alcorão em Tamil",
          "radio_url":"http://quraan.us:9956/;*.mp3"
       },
       {
-         "name":"القرآن بالبنجابي",
+         "name":"Alcorão em Punjabi",
          "radio_url":"http://server2.quraan.us:9940/;*.mp3"
       },
       {
-         "name":"القرآن بالكنادية",
+         "name":"Alcorão em Kannada",
          "radio_url":"http://quraan.us:9976/;*.mp3"
       },
       {
-         "name":"القرآن بالماليالامية",
+         "name":"Alcorão em malaiala",
          "radio_url":"http://server2.quraan.us:9968/;*.mp3"
       },
       {
-         "name":"القرآن بالتيلوغوية",
+         "name":"Alcorão em telugu",
          "radio_url":"http://server2.quraan.us:9954/;*.mp3"
       },
       {
-         "name":"القرآن بالصينية",
+         "name":"Alcorão em chinês",
          "radio_url":"http://server2.quraan.us:9992/;*.mp3"
       },
       {
-         "name":"القرآن بالهندية",
+         "name":"Alcorão em hindi",
          "radio_url":"http://quraan.us:9982/;*.mp3"
       },
       {
-         "name":"القرآن باﻷوردو",
+         "name":"Alcorão em Urdu",
          "radio_url":"http://quraan.us:9952/;*.mp3"
       },
       {
-         "name":"القرآن بالمالاي",
+         "name":"Alcorão em malaio",
          "radio_url":"http://quraan.us:9932/;*.mp3"
       },
       {
-         "name":"القرآن بالكشميرية",
+         "name":"Alcorão na Caxemira",
          "radio_url":"http://server2.quraan.us:9974/;*.mp3"
       },
       {
-         "name":"القرآن بالتاغالوغية",
+         "name":"Alcorão em Tagalo",
          "radio_url":"http://server2.quraan.us:9946/;*.mp3"
       },
       {
-         "name":"القرآن بالسنهالية",
+         "name":"Alcorão em cingalês",
          "radio_url":"http://quraan.us:9962/;*.mp3"
       },
       {
-         "name":"القرآن بالفيتنامية",
+         "name":"Alcorão em vietnamita",
          "radio_url":"http://server2.quraan.us:9948/;*.mp3"
       },
       {
-         "name":"القرآن بالتايلاندية",
+         "name":"Alcorão em tailandês",
          "radio_url":"http://server2.quraan.us:9938/;*.mp3"
       },
       {
-         "name":"القرآن بالكورية",
+         "name":"Alcorão em coreano",
          "radio_url":"http://quraan.us:9972/;*.mp3"
       },
       {
-         "name":"القرآن بالفارسية",
+         "name":"Alcorão em Farsi",
          "radio_url":"http://quraan.us:9936/;*.mp3"
       },
       {
-         "name":"القرآن بالكوردية",
+         "name":"Alcorão em curdo",
          "radio_url":"http://server2.quraan.us:9970/;*.mp3"
       },
       {
-         "name":"القرآن بالاسبانية الاتينية",
+         "name":"Alcorão em espanhol-latino",
          "radio_url":"http://server2.quraan.us:9328/;*.mp3"
       },
       {
-         "name":"القرآن بالتركية",
+         "name":"Alcorão em turco",
          "radio_url":"http://server2.quraan.us:9324/;*.mp3"
       },
       {
-         "name":"القرآن بالسويدية",
+         "name":"Alcorão em sueco",
          "radio_url":"http://quraan.us:9772/;*.mp3"
       },
       {
-         "name":"القرآن بالرومانية",
+         "name":"Alcorão em romeno",
          "radio_url":"http://server2.quraan.us:9774/;*.mp3"
       },
       {
-         "name":"القرآن باليونانية",
+         "name":"Alcorão em grego",
          "radio_url":"http://server2.quraan.us:9984/;*.mp3"
       },
       {
-         "name":"القرآن بالالبانية",
+         "name":"Alcorão em albanês",
          "radio_url":"http://quraan.us:9996/;*.mp3"
       },
       {
-         "name":"القرآن بالبوسنية",
+         "name":"Alcorão em Bósnio",
          "radio_url":"http://server2.quraan.us:9994/;*.mp3"
       },
       {
-         "name":"القرآن بالبرتغالية",
+         "name":"Alcorão em português",
          "radio_url":"http://quraan.us:9966/;*.mp3"
       },
       {
-         "name":"القرآن بالاسبانية",
+         "name":"Alcorão em espanhol",
          "radio_url":"http://quraan.us:9960/;*.mp3"
       },
       {
-         "name":"القرآن بالروسية",
+         "name":"Alcorão em russo",
          "radio_url":"http://server2.quraan.us:9964/;*.mp3"
       },
       {
-         "name":"القرآن بالالمانية",
+         "name":"Alcorão em alemão",
          "radio_url":"http://quraan.us:9986/;*.mp3"
       },
       {
-         "name":"القرآن بالانجليزية",
+         "name":"Alcorão em inglês",
          "radio_url":"http://server2.quraan.us:9990/;*.mp3"
       },
       {
-         "name":"القرآن بالايطالية",
+         "name":"Alcorão em italiano",
          "radio_url":"http://server2.quraan.us:9924/;*.mp3"
       },
       {
-         "name":"القرآن بالفرنسية",
+         "name":"Alcorão em francês",
          "radio_url":"http://quraan.us:9988/;*.mp3"
       },
       {
-         "name":"القرآن بالهنجارية",
+         "name":"Alcorão em húngaro",
          "radio_url":"http://server2.quraan.us:9980/;*.mp3"
       },
       {
-         "name":"القرآن باليوربية",
+         "name":"Alcorão em ioruba",
          "radio_url":"http://quraan.us:9878/;*.mp3"
       },
       {
-         "name":"القرآن بالارومية",
+         "name":"Alcorão em Oromo",
          "radio_url":"http://quraan.us:9928/;*.mp3"
       },
       {
-         "name":"القرآن بالتمازيغية",
+         "name":"Alcorão em Tamazight",
          "radio_url":"http://server2.quraan.us:9958/;*.mp3"
       },
       {
-         "name":"القرآن بالصومالية",
+         "name":"Alcorão em Somali",
          "radio_url":"http://quraan.us:9930/;*.mp3"
       },
       {
-         "name":"القرآن بالنيجيرية",
+         "name":"Alcorão em nigeriano",
          "radio_url":"http://quraan.us:9934/;*.mp3"
       },
       {
-         "name":"القرآن بالفولانية",
+         "name":"Tafsir em Fulani",
          "radio_url":"http://server2.quraan.us:9834/;*.mp3"
       },
       {
-         "name":"القرآن بالروسية-تفسير السعدي",
+         "name":"Russia-Qur’an Recitation com uma leitura de Tafsir Al-Sa`di",
          "radio_url":"http://server2.quraan.us:9862/;*.mp3"
       },
       {
-         "name":"القرآن بالسواحيلية",
+         "name":"Tafsir em suaíli",
          "radio_url":"http://quraan.us:9860/;*.mp3"
       },
       {
-         "name":"القرآن بالامهرية",
+         "name":"Tafsir em amárico",
          "radio_url":"http://quraan.us:9880/;*.mp3"
       }
    ]

@@ -1,183 +1,183 @@
 {
    "radios":[
       {
-         "name":"القرآن بالبتشو",
+         "name":"Peştuca'da Kuran",
          "radio_url":"http://server2.quraan.us:9874/;*.mp3"
       },
       {
-         "name":"القرآن بالبنغالي",
+         "name":"Bengalce Kuran",
          "radio_url":"http://server2.quraan.us:9998/;*.mp3"
       },
       {
-         "name":"القرآن بالاغور",
+         "name":"Uygurca Kuran",
          "radio_url":"http://server2.quraan.us:9950/;*.mp3"
       },
       {
-         "name":"القرآن بالاندونيسي",
+         "name":"Endonezce Kuran",
          "radio_url":"http://server2.quraan.us:9978/;*.mp3"
       },
       {
-         "name":"القرآن بالتاميلي",
+         "name":"Tamilce Kuran",
          "radio_url":"http://quraan.us:9956/;*.mp3"
       },
       {
-         "name":"القرآن بالبنجابي",
+         "name":"Pencap'ta Kuran",
          "radio_url":"http://server2.quraan.us:9940/;*.mp3"
       },
       {
-         "name":"القرآن بالكنادية",
+         "name":"Kannada'da Kuran",
          "radio_url":"http://quraan.us:9976/;*.mp3"
       },
       {
-         "name":"القرآن بالماليالامية",
+         "name":"Malayalamca Kuran",
          "radio_url":"http://server2.quraan.us:9968/;*.mp3"
       },
       {
-         "name":"القرآن بالتيلوغوية",
+         "name":"Telugu'da Kuran",
          "radio_url":"http://server2.quraan.us:9954/;*.mp3"
       },
       {
-         "name":"القرآن بالصينية",
+         "name":"Çince Kuran",
          "radio_url":"http://server2.quraan.us:9992/;*.mp3"
       },
       {
-         "name":"القرآن بالهندية",
+         "name":"Hintçe Kuran",
          "radio_url":"http://quraan.us:9982/;*.mp3"
       },
       {
-         "name":"القرآن باﻷوردو",
+         "name":"Urduca Kuran",
          "radio_url":"http://quraan.us:9952/;*.mp3"
       },
       {
-         "name":"القرآن بالمالاي",
+         "name":"Malayca Kuran",
          "radio_url":"http://quraan.us:9932/;*.mp3"
       },
       {
-         "name":"القرآن بالكشميرية",
+         "name":"Keşmirce'de Kuran",
          "radio_url":"http://server2.quraan.us:9974/;*.mp3"
       },
       {
-         "name":"القرآن بالتاغالوغية",
+         "name":"Tagalog'da Kuran",
          "radio_url":"http://server2.quraan.us:9946/;*.mp3"
       },
       {
-         "name":"القرآن بالسنهالية",
+         "name":"Seylanca'da Kuran",
          "radio_url":"http://quraan.us:9962/;*.mp3"
       },
       {
-         "name":"القرآن بالفيتنامية",
+         "name":"Vietnamca Kuran",
          "radio_url":"http://server2.quraan.us:9948/;*.mp3"
       },
       {
-         "name":"القرآن بالتايلاندية",
+         "name":"Tayca Kuran",
          "radio_url":"http://server2.quraan.us:9938/;*.mp3"
       },
       {
-         "name":"القرآن بالكورية",
+         "name":"Korece Kuran",
          "radio_url":"http://quraan.us:9972/;*.mp3"
       },
       {
-         "name":"القرآن بالفارسية",
+         "name":"Farsça'da Kuran",
          "radio_url":"http://quraan.us:9936/;*.mp3"
       },
       {
-         "name":"القرآن بالكوردية",
+         "name":"Kürtçe Kuran",
          "radio_url":"http://server2.quraan.us:9970/;*.mp3"
       },
       {
-         "name":"القرآن بالاسبانية الاتينية",
+         "name":"Latin-İspanyolca Kuran",
          "radio_url":"http://server2.quraan.us:9328/;*.mp3"
       },
       {
-         "name":"القرآن بالتركية",
+         "name":"Türkçe Kuran",
          "radio_url":"http://server2.quraan.us:9324/;*.mp3"
       },
       {
-         "name":"القرآن بالسويدية",
+         "name":"İsveççe Kuran",
          "radio_url":"http://quraan.us:9772/;*.mp3"
       },
       {
-         "name":"القرآن بالرومانية",
+         "name":"Romence Kuran",
          "radio_url":"http://server2.quraan.us:9774/;*.mp3"
       },
       {
-         "name":"القرآن باليونانية",
+         "name":"Yunanca Kuran",
          "radio_url":"http://server2.quraan.us:9984/;*.mp3"
       },
       {
-         "name":"القرآن بالالبانية",
+         "name":"Arnavutça Kuran",
          "radio_url":"http://quraan.us:9996/;*.mp3"
       },
       {
-         "name":"القرآن بالبوسنية",
+         "name":"Boşnakça Kuran",
          "radio_url":"http://server2.quraan.us:9994/;*.mp3"
       },
       {
-         "name":"القرآن بالبرتغالية",
+         "name":"Portekizce Kuran",
          "radio_url":"http://quraan.us:9966/;*.mp3"
       },
       {
-         "name":"القرآن بالاسبانية",
+         "name":"İspanyolca Kuran",
          "radio_url":"http://quraan.us:9960/;*.mp3"
       },
       {
-         "name":"القرآن بالروسية",
+         "name":"Rusça Kuran",
          "radio_url":"http://server2.quraan.us:9964/;*.mp3"
       },
       {
-         "name":"القرآن بالالمانية",
+         "name":"Almanca Kuran",
          "radio_url":"http://quraan.us:9986/;*.mp3"
       },
       {
-         "name":"القرآن بالانجليزية",
+         "name":"İngilizce Kuran",
          "radio_url":"http://server2.quraan.us:9990/;*.mp3"
       },
       {
-         "name":"القرآن بالايطالية",
+         "name":"İtalyanca Kuran",
          "radio_url":"http://server2.quraan.us:9924/;*.mp3"
       },
       {
-         "name":"القرآن بالفرنسية",
+         "name":"Fransızca Kuran",
          "radio_url":"http://quraan.us:9988/;*.mp3"
       },
       {
-         "name":"القرآن بالهنجارية",
+         "name":"Macarca Kuran",
          "radio_url":"http://server2.quraan.us:9980/;*.mp3"
       },
       {
-         "name":"القرآن باليوربية",
+         "name":"Yoruba'da Kuran",
          "radio_url":"http://quraan.us:9878/;*.mp3"
       },
       {
-         "name":"القرآن بالارومية",
+         "name":"Oromo'da Kuran",
          "radio_url":"http://quraan.us:9928/;*.mp3"
       },
       {
-         "name":"القرآن بالتمازيغية",
+         "name":"Tamazight'ta Kuran",
          "radio_url":"http://server2.quraan.us:9958/;*.mp3"
       },
       {
-         "name":"القرآن بالصومالية",
+         "name":"Somali'de Kuran",
          "radio_url":"http://quraan.us:9930/;*.mp3"
       },
       {
-         "name":"القرآن بالنيجيرية",
+         "name":"Nijeryalı Kuran",
          "radio_url":"http://quraan.us:9934/;*.mp3"
       },
       {
-         "name":"القرآن بالفولانية",
+         "name":"Fulani'de Tefsir",
          "radio_url":"http://server2.quraan.us:9834/;*.mp3"
       },
       {
-         "name":"القرآن بالروسية-تفسير السعدي",
+         "name":"Tefsir Al-Sa`di Okumasıyla Rusya-Kur'an-ı Kerim Oku",
          "radio_url":"http://server2.quraan.us:9862/;*.mp3"
       },
       {
-         "name":"القرآن بالسواحيلية",
+         "name":"Svahili dilinde Tefsir",
          "radio_url":"http://quraan.us:9860/;*.mp3"
       },
       {
-         "name":"القرآن بالامهرية",
+         "name":"Amharca Tefsiri",
          "radio_url":"http://quraan.us:9880/;*.mp3"
       }
    ]

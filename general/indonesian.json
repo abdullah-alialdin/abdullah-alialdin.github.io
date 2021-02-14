@@ -1,0 +1,68 @@
+{
+  "radios": [
+    {
+      "name":"Bacaan Umum -1",
+      "radio_url":"http://66.45.232.131:9994/;"
+    },
+    {
+      "name":"Bacaan Umum -2",
+      "radio_url":"http://live.mp3quran.net:8006/;"
+    },
+    {
+      "name":"Bacaan pendek yang menakjubkan",
+      "radio_url":"http://live.mp3quran.net:9702/;"
+    },
+    {
+      "name":"Bacaan Indah",
+      "radio_url":"http://live.mp3quran.net:9992/;"
+    },
+    {
+      "name":"Surah Al-Baqarah - Banyak Qari",
+      "radio_url":"http://live.mp3quran.net:9722/;"
+    },
+    {
+      "name":"Fatwa-1",
+      "radio_url":"http://live.mp3quran.net:8014/;"
+    },
+    {
+      "name":"Fatwa-2",
+      "radio_url":"http://server2.quraan.us:9890/;*.mp3"
+    },
+    {
+      "name":"Takbir Idul Fitri",
+      "radio_url":"http://live.mp3quran.net:9728/;"
+    },
+    {
+      "name":"Ruqyah -1",
+      "radio_url":"http://live.mp3quran.net:9936/;"
+    },
+    {
+      "name":"Ruqyah -2",
+      "radio_url":"http://104.7.66.64:8004/;?icy=http"
+    },
+    {
+      "name":"Ruqyah -3",
+      "radio_url":"http://quraan.us:9798/;*.mp3"
+    },
+    {
+      "name":"Interpretasi Sha`rawi",
+      "radio_url":"http://quraan.us:9888/;*.mp3"
+    },
+    {
+      "name":"Interpretasi Saadi",
+      "radio_url":"http://quraan.us:9944/;*.mp3"
+    },
+    {
+      "name":"Tafsir Alquran -1",
+      "radio_url":"http://server2.quraan.us:9318/;*.mp3"
+    },
+    {
+      "name":"Tafsir Alquran -2",
+      "radio_url":"http://live.mp3quran.net:9718/;"
+    },
+    {
+      "name":"Tafsir Alquran -3",
+      "radio_url":"http://104.7.66.64:8088/;?icy=http"
+    }
+  ]
+}

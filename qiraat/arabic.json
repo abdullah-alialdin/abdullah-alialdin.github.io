@@ -2,7 +2,15 @@
    "radios":[
       {
          "name":"ابراهيم الدوسري - ورش",
+         "radio_url":"http://server2.quraan.us:9812/;*.mp3"
+      },
+      {
+         "name":"ابراهيم الدوسري - ورش",
          "radio_url":"http://live.mp3quran.net:9902/;"
+      },
+      {
+         "name":"أحمد الطرابلسي - قالون",
+         "radio_url":"http://server2.quraan.us:9820/;*.mp3"
       },
       {
          "name":"أحمد خضر الطرابلسي - قالون",
@@ -13,12 +21,24 @@
          "radio_url":"http://live.mp3quran.net:9916/;"
       },
       {
+         "name":"الدوكالي محمد العالم - فالون",
+         "radio_url":"http://server2.quraan.us:9818/;*.mp3"
+      },
+      {
          "name":"العيون الكوشي - ورش",
          "radio_url":"http://live.mp3quran.net:9912/;"
       },
       {
+         "name":"العيون الكوشي - ورش",
+         "radio_url":"http://quraan.us:9876/;*.mp3"
+      },
+      {
          "name":"الفاتح محمد الزبير - الدوري",
          "radio_url":"http://live.mp3quran.net:9910/;"
+      },
+      {
+         "name":"الفاتح الزبير - الدوري",
+         "radio_url":"http://server2.quraan.us:9832/;*.mp3"
       },
       {
          "name":"طارق عبدالغني دعوب - قالون",
@@ -29,20 +49,56 @@
          "radio_url":"http://live.mp3quran.net:9956/;"
       },
       {
+         "name":"عبدالباسط عبدالصمد - ورش",
+         "radio_url":"http://server2.quraan.us:9810/;*.mp3"
+      },
+      {
+         "name":"عبدالرشيد صوفي - الدوري",
+         "radio_url":"http://server2.quraan.us:9830/;*.mp3"
+      },
+      {
          "name":"عبدالرشيد صوفي - السوسي",
          "radio_url":"http://live.mp3quran.net:9866/;"
+      },
+      {
+         "name":"عبدالرشيد صوفي  - السوسي",
+         "radio_url":"http://server2.quraan.us:9826/;*.mp3"
       },
       {
          "name":"عبدالرشيد صوفي - خلف",
          "radio_url":"http://live.mp3quran.net:9864/;"
       },
       {
+         "name":"عبدالرشيد صوفي - خلف",
+         "radio_url":"http://server2.quraan.us:9824/;*.mp3"
+      },
+      {
+         "name":"عبدالرشيد صوفي - أبي الحارث",
+         "radio_url":"http://quraan.us:9836/;*.mp3"
+      },
+      {
+         "name":"عبدالرشيد صوفي - شعبة",
+         "radio_url":"http://quraan.us:9866/;*.mp3"
+      },
+      {
          "name":"علي الحذيفي - قالون",
          "radio_url":"http://live.mp3quran.net:9844/;"
       },
       {
+         "name":"علي الحزيفي - قالون",
+         "radio_url":"http://server2.quraan.us:9816/;*.mp3"
+      },
+      {
          "name":"عمر القزابري - ورش",
          "radio_url":"http://live.mp3quran.net:9838/;"
+      },
+      {
+         "name":"عمر القزابري - ورش",
+         "radio_url":"http://server2.quraan.us:9808/;*.mp3"
+      },
+      {
+         "name":"مجدى البلتاجي - ابن ذكوان",
+         "radio_url":"http://quraan.us:9864/;*.mp3"
       },
       {
          "name":"محمد عبدالحكيم سعيد العبدالله - الدوري",
@@ -57,12 +113,28 @@
          "radio_url":"http://live.mp3quran.net:9824/;"
       },
       {
+         "name":"محمد الطيب حمدان - ورش",
+         "radio_url":"http://server2.quraan.us:9806/;*.mp3"
+      },
+      {
          "name":"محمود الشيمي - الدوري",
          "radio_url":"http://live.mp3quran.net:9812/;"
       },
       {
          "name":"محمود خليل الحصري - ورش",
          "radio_url":"http://live.mp3quran.net:9958/;"
+      },
+      {
+         "name":"محمود خليل الحصري - قالون",
+         "radio_url":"http://server2.quraan.us:9814/;*.mp3"
+      },
+      {
+         "name":"محمود خليل الحصري - الدوري",
+         "radio_url":"http://quraan.us:9870/;*.mp3"
+      },
+      {
+         "name":"مفتاح السلطني - الدوري",
+         "radio_url":"http://server2.quraan.us:9828/;*.mp3"
       },
       {
          "name":"مفتاح السلطني - الدوري",
@@ -73,8 +145,24 @@
          "radio_url":"http://live.mp3quran.net:9792/;"
       },
       {
+         "name":"مفتاح السلطني - رويس",
+         "radio_url":"http://server2.quraan.us:9800/;*.mp3"
+      },
+      {
+         "name":"مفتاح السلطني - ابن جماز",
+         "radio_url":"http://server2.quraan.us:9942/;*.mp3"
+      },
+      {
+         "name":"مفتاح السلطني - روح",
+         "radio_url":"http://server2.quraan.us:9872/;*.mp3"
+      },
+      {
          "name":"مفتاح السلطني - ابن ذكوان",
          "radio_url":"http://live.mp3quran.net:9788/;"
+      },
+      {
+         "name":"مصطفى غربي - ورش",
+         "radio_url":"http://server2.quraan.us:9804/;*.mp3"
       },
       {
          "name":"وليد النائحي - قالون",
@@ -82,11 +170,23 @@
       },
       {
          "name":"ياسر المزروعي - رويس",
+         "radio_url":"http://server2.quraan.us:9822/;*.mp3"
+      },
+      {
+         "name":"ياسر المزروعي - رويس",
          "radio_url":"http://live.mp3quran.net:9774/;"
+      },
+      {
+         "name":"ياسين الجزائري - ورش",
+         "radio_url":"http://server2.quraan.us:9802/;*.mp3"
       },
       {
          "name":"ياسين الجزائري - ورش",
          "radio_url":"http://live.mp3quran.net:9908/;"
       },
+      {
+         "name":"يوسف بن نوح - البزي",
+         "radio_url":"http://quraan.us:9868/;*.mp3"
+      }
    ]
 }

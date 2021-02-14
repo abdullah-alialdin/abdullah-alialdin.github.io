@@ -1,0 +1,68 @@
+{
+  "radios": [
+    {
+      "name":"Allgemeine Rezitationen -1",
+      "radio_url":"http://66.45.232.131:9994/;"
+    },
+    {
+      "name":"Allgemeine Rezitationen -2",
+      "radio_url":"http://live.mp3quran.net:8006/;"
+    },
+    {
+      "name":"Erstaunliche kurze Rezitationen",
+      "radio_url":"http://live.mp3quran.net:9702/;"
+    },
+    {
+      "name":"Schöne Rezitationen",
+      "radio_url":"http://live.mp3quran.net:9992/;"
+    },
+    {
+      "name":"Sure Al-Baqarah - Viele Rezitatoren",
+      "radio_url":"http://live.mp3quran.net:9722/;"
+    },
+    {
+      "name":"Fatwa-1",
+      "radio_url":"http://live.mp3quran.net:8014/;"
+    },
+    {
+      "name":"Fatwa-2",
+      "radio_url":"http://server2.quraan.us:9890/;*.mp3"
+    },
+    {
+      "name":"Eid's Takbeer",
+      "radio_url":"http://live.mp3quran.net:9728/;"
+    },
+    {
+      "name":"Roqyah-1",
+      "radio_url":"http://live.mp3quran.net:9936/;"
+    },
+    {
+      "name":"Roqyah-2",
+      "radio_url":"http://104.7.66.64:8004/;?icy=http"
+    },
+    {
+      "name":"Roqyah-3",
+      "radio_url":"http://quraan.us:9798/;*.mp3"
+    },
+    {
+      "name":"Interpretation von Shaarawi",
+      "radio_url":"http://quraan.us:9888/;*.mp3"
+    },
+    {
+      "name":"Interpretation von Saadi",
+      "radio_url":"http://quraan.us:9944/;*.mp3"
+    },
+    {
+      "name":"Interpretation des Korans-1",
+      "radio_url":"http://server2.quraan.us:9318/;*.mp3"
+    },
+    {
+      "name":"Interpretation des Korans-2",
+      "radio_url":"http://live.mp3quran.net:9718/;"
+    },
+    {
+      "name":"Interpretation des Korans-3",
+      "radio_url":"http://104.7.66.64:8088/;?icy=http"
+    }
+  ]
+}

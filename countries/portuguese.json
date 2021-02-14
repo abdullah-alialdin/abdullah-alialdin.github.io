@@ -1,0 +1,220 @@
+{
+   "radios":[
+      {
+         "name":"África do Sul - Rádio Islam Internacional",
+         "radio_url":"http://listen.radioislam.co.za:8080/radioislam.mp3"
+      },
+      {
+         "name":"Alemão - Palestras de alemão",
+         "radio_url":"http://104.7.66.64:9011/;?icy=http"
+      },
+      {
+         "name":"Austrália - Rádio Al Bayan",
+         "radio_url":"http://s9.viastreaming.net:9645/;stream/1"
+      },
+      {
+         "name":"Austrália - Rádio Al corão Kareem",
+         "radio_url":"http://listen.qkradio.com.au:8382/listen.mp3"
+      },
+      {
+         "name":"Austrália - Islã 2 dias - CH - Canções islâmicas",
+         "radio_url":"http://islam2day.tv:8000/;"
+      },
+      {
+         "name":"Austrália - Islãm 2 dias - CH-Alcorão",
+         "radio_url":"http://islam2day.tv:3000/;"
+      },
+      {
+         "name":"Brasil - Palestras islâmicas portuguesas",
+         "radio_url":"http://104.7.66.64:8086/;?icy=http"
+      },
+      {
+         "name":"China - Rádio Islâmica Chinesa",
+         "radio_url":"http://104.7.66.64:8002/;?icy=http"
+      },
+      {
+         "name":"China - Alcorão em chinês",
+         "radio_url":"http://206.72.199.178:9994/;"
+      },
+      {
+         "name":"Egito - Rádio Alcorão",
+         "radio_url":"http://stream.radiojar.com/8s5u5tpdtwzuv"
+      },
+      {
+         "name":"Egito - Estação de Rádio Rio Nilo",
+         "radio_url":"http://104.7.66.64:8087/;?icy=http"
+      },
+      {
+         "name":"Etiópia - Estação de Rádio Amárica",
+         "radio_url":"http://104.7.66.64:8000/;?icy=http"
+      },
+      {
+         "name":"Eritreia - Palestras Islâmicas",
+         "radio_url":"http://104.7.66.64:8090/;?icy=http"
+      },
+      {
+         "name":"Espanha - Conversas islâmicas",
+         "radio_url":"http://104.7.66.64:8093/;?icy=http"
+      },
+      {
+         "name":"Emirados Árabes Unidos - Alcorão Zayed",
+         "radio_url":"https://zayedcorão.gov.ae/stream.php"
+      },
+      {
+         "name":"EUA - Alcorão para o Coração",
+         "radio_url":"https://edge.mixlr.com/channel/rwumx"
+      },
+      {
+         "name":"EUA - Misericórdia para com a Humanidade (Sira)",
+         "radio_url":"http://104.7.66.64:8089/;?icy=http"
+      },
+      {
+         "name":"EUA - Riyad as-Salihin",
+         "radio_url":"http://104.7.66.64:8085/;?icy=http"
+      },
+      {
+         "name":"EUA - Rádio Juvenil Deenagers",
+         "radio_url":"http://104.7.66.64:8003/;?icy=http"
+      },
+      {
+         "name":"EUA - Rádio Hajj",
+         "radio_url":"http://104.7.66.64:8005/;?icy=http"
+      },
+      {
+         "name":"EUA - Sabedoria Feminina",
+         "radio_url":"https://edge.mixlr.com/channel/eterm"
+      },
+      {
+         "name":"França - Conferências em francês",
+         "radio_url":"http://104.7.66.64:8099/;?icy=http"
+      },
+      {
+         "name":"França - Khojaradio 4 Alcorão",
+         "radio_url":"http://live1.vestaradio.com/KHOJARADIO4corão"
+      },
+      {
+         "name":"Índia - Rádio Islâmica Kerala Malabar",
+         "radio_url":"http://s4.voscast.com:8068/;"
+      },
+      {
+         "name":"Índia - Rádio Islam",
+         "radio_url":"http://radioislamin.out.airtime.pro:8000/radioislamin_a"
+      },
+      {
+         "name":"Indonésia - Rádio Latanza Silaturahim",
+         "radio_url":"http://ch1.radiosilaturahim.com:8000/stereo"
+      },
+      {
+         "name":"Itália - Lições islâmicas",
+         "radio_url":"http://104.7.66.64:8094/;?icy=http"
+      },
+      {
+         "name":"KSA - Rádio corão Makkah",
+         "radio_url":"http://n05.radiojar.com/4wqre23fytzuv?rj-ttl=5&rj-tok=AAABdx73PHEA6O-Q8GLSCrhRTQ"
+      },
+      {
+         "name":"KSA - Alharamayn Para Sunnah",
+         "radio_url":"http://212.32.255.144:9304/stream.mp3"
+      },
+      {
+         "name":"KSA - Alukah-Al-corão Al-Karim",
+         "radio_url":"https://radio.alukah.net/corão"
+      },
+      {
+         "name":"KSA - Canal Alukah-Ulum Al-corão",
+         "radio_url":"https://radio.alukah.net/ulumalcorão"
+      },
+      {
+         "name":"KSA - Alukah - Al-Fikr",
+         "radio_url":"https://radio.alukah.net/alfikr"
+      },
+      {
+         "name":"Kuwait - rádio ao vivo do Alcorão",
+         "radio_url":"http://s2.voscast.com:12312/;"
+      },
+      {
+         "name":"Kuwait - Umm al-Quwain Alcorão",
+         "radio_url":"http://ca.rcast.net:8058/;stream.mp3"
+      },
+      {
+         "name":"Líbia - Kitab e Sunnah Rádio em árabe",
+         "radio_url":"http://162.244.80.118:5678/stream"
+      },
+      {
+         "name":"Líbia - Kitab e Sunnah Rádio Inglês",
+         "radio_url":"http://162.244.80.52:6656/stream"
+      },
+      {
+         "name":"Líbia - O Caminho Salaf",
+         "radio_url":"http://www.salafwayfm.ly:8000/fm"
+      },
+      {
+         "name":"Malawi - Rádio ISL",
+         "radio_url":"http://178.obj.netromedia.net:8028/;"
+      },
+      {
+         "name":"Marrocos - Rádio Alcorão",
+         "radio_url":"http://92.222.103.13:8005/stream/1/"
+      },
+      {
+         "name":"Nova Zelândia - Alcorão",
+         "radio_url":"http://92.222.103.14:8005/;"
+      },
+      {
+         "name":"Paquistão - Saut-ul-corão",
+         "radio_url":"http://58.65.171.102:8004/stream?type=http&nocache=4"
+      },
+      {
+         "name":"Paquistão - Palestras Islâmicas",
+         "radio_url":"http://104.7.66.64:8092/;?icy=http"
+      },
+      {
+         "name":"Paquistão - rádio Alcorão",
+         "radio_url":"http://s2.reliastream.com:8239/Tune-In%20Links/;"
+      },
+      {
+         "name":"Palestina - Rádio Alcorão",
+         "radio_url":"http://www.corão-radio.org:8002/;stream/1"
+      },
+      {
+         "name":"Rússia - Rádio Vatan",
+         "radio_url":"http://air.radio-dialog.ru:8001/radiovatan"
+      },
+      {
+         "name":"Reino Unido - Rádio Voz do Islã",
+         "radio_url":"http://s6.voscast.com:9980/live.mp3"
+      },
+      {
+         "name":"Reino Unido - Rádio Crescente",
+         "radio_url":"http://icecast.commedia.org.uk:8000/crescent.mp3"
+      },
+      {
+         "name":"Reino Unido - Rádio Herança",
+         "radio_url":"http://193.218.160.11:8009/heritageradio1602"
+      },
+      {
+         "name":"Reino Unido - Centro de palestras islâmicas",
+         "radio_url":"http://centauri.shoutca.st:8600/;"
+      },
+      {
+         "name":"Senegal - Alcorão Tafsir",
+         "radio_url":"https://betelgeuse.dribbcast.com/proxy/tafsircoran?mp=/stream"
+      },
+      {
+         "name":"Sudão - Al Zain corão",
+         "radio_url":"http://orion.shoutca.st:8118/stream"
+      },
+      {
+         "name":"Tailândia - Rádio Islâmica Tailandesa",
+         "radio_url":"http://radio12.plathong.net/7234/;stream.mp3"
+      },
+      {
+         "name":"Tunis - Rádio Alcorão",
+         "radio_url":"http://5.135.194.225:8000/live"
+      },
+      {
+         "name":"Turquia - Cansuyu FM",
+         "radio_url":"http://radyodinle.cansuyufm.com:17175/;"
+      }
+   ]
+}

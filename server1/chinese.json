@@ -1,179 +1,179 @@
 {
    "radios":[
       {
-         "name":"Abdelbari Al-Thoubayti",
+         "name":"阿卜杜勒巴里-艾勒苏拜提",
          "radio_url":"http://server2.quraan.us:9790/;*.mp3"
       },
       {
-         "name":"Abdul Aziz Al-Ahmad",
+         "name":"阿卜杜勒阿齐兹-艾勒艾赫迈德",
          "radio_url":"http://quraan.us:9914/;*.mp3"
       },
       {
-         "name":"Abdulaziz Az-Zahrani",
+         "name":"阿卜杜勒阿齐兹·阿扎哈恩",
          "radio_url":"http://server2.quraan.us:9302/;*.mp3"
       },
       {
-         "name":"Abdulbasit Abdulsamad",
+         "name":"阿卜杜勒巴斯·阿卜杜勒萨玛德",
          "radio_url":"http://quraan.us:9916/;*.mp3"
       },
       {
-         "name":"Abdullah Al-Johany",
+         "name":"阿卜杜拉·朱哈尼",
          "radio_url":"http://server2.quraan.us:9910/;*.mp3"
       },
       {
-         "name":"Abdullah Basfer",
+         "name":"阿卜杜拉·巴斯法",
          "radio_url":"http://quraan.us:9846/;*.mp3"
       },
       {
-         "name":"Abdullah Khayyat",
+         "name":"阿卜杜拉·哈亚特",
          "radio_url":"http://server2.quraan.us:9908/;*.mp3"
       },
       {
-         "name":"Abdulmohsen Al-Qasim",
+         "name":"阿卜杜勒·莫森·卡西姆",
          "radio_url":"http://quraan.us:9842/;*.mp3"
       },
       {
-         "name":"Abdul-Rahman Al-Usi",
+         "name":"阿卜杜勒·拉赫曼·乌西",
          "radio_url":"http://quraan.us:9778/;*.mp3"
       },
       {
-         "name":"Abdulrahman Alsudaes",
+         "name":"阿卜杜勒·拉赫曼·阿尔苏达伊",
          "radio_url":"http://quraan.us:9850/;*.mp3"
       },
       {
-         "name":"Abdulwali Al-Arkani",
+         "name":"阿卜杜勒·瓦利·阿尔·阿卡尼",
          "radio_url":"http://quraan.us:9304/;*.mp3"
       },
       {
-         "name":"Ahmad Al-Ajmy",
+         "name":"艾哈迈德·阿格米",
          "radio_url":"http://server2.quraan.us:9852/;*.mp3"
       },
       {
-         "name":"Ali Alhuthaifi",
+         "name":"阿里·胡迪菲",
          "radio_url":"http://quraan.us:9844/;*.mp3"
       },
       {
-         "name":"Ali Jaber",
+         "name":"阿里·贾伯",
          "radio_url":"http://quraan.us:9912/;*.mp3"
       },
       {
-         "name":"Fares Abbad",
+         "name":"法里斯·阿卜杜勒",
          "radio_url":"http://server2.quraan.us:9904/;*.mp3"
       },
       {
-         "name":"Fahd Al-Kandari",
+         "name":"法哈德·坎达里",
          "radio_url":"http://server2.quraan.us:9306/;*.mp3"
       },
       {
-         "name":"Hani Arrifai",
+         "name":"哈尼·阿拉菲",
          "radio_url":"http://quraan.us:9902/;*.mp3"
       },
       {
-         "name":"Ibrahim Al-Akdar",
+         "name":"易卜拉欣·阿赫达尔",
          "radio_url":"http://server2.quraan.us:9840/;*.mp3"
       },
       {
-         "name":"Idrees Abkr",
+         "name":"伊德里斯",
          "radio_url":"http://server2.quraan.us:9300/;*.mp3"
       },
       {
-         "name":"Jazza Al-Suweilih",
+         "name":"吉兹·阿尔·斯韦雷",
          "radio_url":"http://server2.quraan.us:9780/;*.mp3"
       },
       {
-         "name":"Khaled Al-Qahtani",
+         "name":"哈立德·卡塔尼",
          "radio_url":"http://quraan.us:9900/;*.mp3"
       },
       {
-         "name":"Khalid Al-Jileel",
+         "name":"哈立德·加利利",
          "radio_url":"http://server2.quraan.us:9794/;*.mp3"
       },
       {
-         "name":"Khalifa Altunaiji",
+         "name":"哈利法·图尼吉",
          "radio_url":"http://server2.quraan.us:9838/;*.mp3"
       },
       {
-         "name":"Maher Al Meaqli",
+         "name":"玛黑尔-艾勒穆阿噶礼",
          "radio_url":"http://server2.quraan.us:9856/;*.mp3"
       },
       {
-         "name":"Mahmoud Ali  Albanna",
+         "name":"马赫茂德-阿里-班纳",
          "radio_url":"http://server2.quraan.us:9788/;*.mp3"
       },
       {
-         "name":"Mahmoud Khalil Al-Hussary",
+         "name":"马赫茂德-哈利勒-艾勒合素里",
          "radio_url":"http://quraan.us:9920/;*.mp3"
       },
       {
-         "name":"Mishary Alafasi",
+         "name":"米西里·阿拉法斯",
          "radio_url":"http://server2.quraan.us:9922/;*.mp3"
       },
       {
-         "name":"Mohammad Al-Tablaway",
+         "name":"穆罕默德·塔布拉维",
          "radio_url":"http://quraan.us:9882/;*.mp3"
       },
       {
-         "name":"Mohammed Al-Lohaidan",
+         "name":"穆罕默德",
          "radio_url":"http://server2.quraan.us:9898/;"
       },
       {
-         "name":"Mohammed Ayyub",
+         "name":"穆罕默德-安由布",
          "radio_url":"http://server2.quraan.us:9896/;*.mp3"
       },
       {
-         "name":"Mohammed Jibreel",
+         "name":"穆罕默德·吉布里尔",
          "radio_url":"http://quraan.us:9894/;*.mp3"
       },
       {
-         "name":"Mohammed Siddiq Al-Minshawi - Murattal",
+         "name":"穆罕默德-笋迪格-艾勒明沙威 - Murattal",
          "radio_url":"http://server2.quraan.us:9918/;*.mp3"
       },
       {
-         "name":"Mohammed Siddiq Al-Minshawi - Mujawwad",
+         "name":"穆罕默德-笋迪格-艾勒明沙威 - Mujawwad",
          "radio_url":"http://quraan.us:9776/;*.mp3"
       },
       {
-         "name":"Mohammed Siddiq Al-Minshawi - Muallim",
+         "name":"穆罕默德-笋迪格-艾勒明沙威 - Muallim",
          "radio_url":"http://server2.quraan.us:9308/;*.mp3"
       },
       {
-         "name":"Mustafa Ismail",
+         "name":"穆斯塔法·伊斯梅尔",
          "radio_url":"http://quraan.us:9786/;*.mp3"
       },
       {
-         "name":"Nasser Alqatami",
+         "name":"纳赛尔·卡塔米",
          "radio_url":"http://server2.quraan.us:9886/;*.mp3"
       },
       {
-         "name":"Saad Al-Ghamdi",
+         "name":"萨尔德-艾勒嘎穆迪",
          "radio_url":"http://server2.quraan.us:9854/;*.mp3"
       },
       {
-         "name":"Saud Al-Shuraim",
+         "name":"沙特·舒拉伊姆",
          "radio_url":"http://quraan.us:9848/;*.mp3"
       },
       {
-         "name":"Shaik Abu Bakr Al Shatri",
+         "name":"谢赫·阿布·巴克尔·阿尔两部分",
          "radio_url":"http://quraan.us:9892/;*.mp3"
       },
       {
-         "name":"Shaya At-Tamimi",
+         "name":"莎雅·阿塔米",
          "radio_url":"http://server2.quraan.us:9320/;*.mp3"
       },
       {
-         "name":"Tawfeeq As-Sayegh",
+         "name":"陶菲克-塞赫",
          "radio_url":"http://quraan.us:9796/;*.mp3"
       },
       {
-         "name":"Wadi Al-Yamani",
+         "name":"瓦迪·也门",
          "radio_url":"http://server2.quraan.us:9784/;*.mp3"
       },
       {
-         "name":"Yasser Al-Dosari",
+         "name":"亚瑟·多萨里",
          "radio_url":"http://quraan.us:9884/;*.mp3"
       },
       {
-         "name":"Zaki Daghistani",
+         "name":"扎基·达格斯塔尼",
          "radio_url":"http://server2.quraan.us:9792/;*.mp3"
       }
    ]

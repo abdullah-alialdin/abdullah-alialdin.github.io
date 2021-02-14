@@ -1,0 +1,220 @@
+{
+   "radios":[
+      {
+         "name":"ABD-Kalp için Kuran",
+         "radio_url":"https://edge.mixlr.com/channel/rwumx"
+      },
+      {
+         "name":"ABD-İnsanlığa Merhamet (Sıra)",
+         "radio_url":"http://104.7.66.64:8089/;?icy=http"
+      },
+      {
+         "name":"ABD-Riyad as-Salihin",
+         "radio_url":"http://104.7.66.64:8085/;?icy=http"
+      },
+      {
+         "name":"ABD-Deenagers Gençlik Radyosu",
+         "radio_url":"http://104.7.66.64:8003/;?icy=http"
+      },
+      {
+         "name":"ABD-Hac Radyosu",
+         "radio_url":"http://104.7.66.64:8005/;?icy=http"
+      },
+      {
+         "name":"ABD-Kadın Bilgeliği",
+         "radio_url":"https://edge.mixlr.com/channel/eterm"
+      },
+      {
+         "name":"Almanca-Almanca dersleri",
+         "radio_url":"http://104.7.66.64:9011/;?icy=http"
+      },
+      {
+         "name":"Avustralya-Al Bayan Radyosu",
+         "radio_url":"http://s9.viastreaming.net:9645/;stream/1"
+      },
+      {
+         "name":"Avustralya-Al Quran Kareem Radyosu",
+         "radio_url":"http://listen.qkradio.com.au:8382/listen.mp3"
+      },
+      {
+         "name":"Avustralya-İslam 2 Günü - CH - İslami Şarkılar",
+         "radio_url":"http://islam2day.tv:8000/;"
+      },
+      {
+         "name":"Avustralya-İslam 2 Günü - CH -Quaran",
+         "radio_url":"http://islam2day.tv:3000/;"
+      },
+      {
+         "name":"BAE-Zayed Kuran",
+         "radio_url":"https://zayedquran.gov.ae/stream.php"
+      },
+      {
+         "name":"Brezilya-Portekiz İslami dersleri",
+         "radio_url":"http://104.7.66.64:8086/;?icy=http"
+      },
+      {
+         "name":"Çin-Çin İslami Radyosu",
+         "radio_url":"http://104.7.66.64:8002/;?icy=http"
+      },
+      {
+         "name":"Çince-Kur'an-ı Kerim",
+         "radio_url":"http://206.72.199.178:9994/;"
+      },
+      {
+         "name":"Etiyopya-Amharic Radyo İstasyonu",
+         "radio_url":"http://104.7.66.64:8000/;?icy=http"
+      },
+      {
+         "name":"Eritre-İslam Dersleri",
+         "radio_url":"http://104.7.66.64:8090/;?icy=http"
+      },
+      {
+         "name":"Endonezya-Radyo Latanza Silaturahim",
+         "radio_url":"http://ch1.radiosilaturahim.com:8000/stereo"
+      },
+      {
+         "name":"Fas-Kuran Radyosu",
+         "radio_url":"http://92.222.103.13:8005/stream/1/"
+      },
+      {
+         "name":"Filistin-Kuran Radyosu",
+         "radio_url":"http://www.quran-radio.org:8002/;stream/1"
+      },
+      {
+         "name":"France-Fransızca konferanslar",
+         "radio_url":"http://104.7.66.64:8099/;?icy=http"
+      },
+      {
+         "name":"Fransa-Hoceraadio 4 Kuran",
+         "radio_url":"http://live1.vestaradio.com/KHOJARADIO4quran"
+      },
+      {
+         "name":"Güney Afrika-Radyo İslam Uluslararası",
+         "radio_url":"http://listen.radioislam.co.za:8080/radioislam.mp3"
+      },
+      {
+         "name":"Hindistan-Kerala Malabar İslami Radyosu",
+         "radio_url":"http://s4.voscast.com:8068/;"
+      },
+      {
+         "name":"Hindistan-Radyo İslam",
+         "radio_url":"http://radioislamin.out.airtime.pro:8000/radioislamin_a"
+      },
+      {
+         "name":"İngiltere-İslam'ın Sesi Radyosu",
+         "radio_url":"http://s6.voscast.com:9980/live.mp3"
+      },
+      {
+         "name":"İngiltere-Hilal Radyosu",
+         "radio_url":"http://icecast.commedia.org.uk:8000/crescent.mp3"
+      },
+      {
+         "name":"İngiltere-Miras Radyosu",
+         "radio_url":"http://193.218.160.11:8009/heritageradio1602"
+      },
+      {
+         "name":"İngiltere-İslami Dersler Merkezi",
+         "radio_url":"http://centauri.shoutca.st:8600/;"
+      },
+      {
+         "name":"İspanya-İslami görüşmeler",
+         "radio_url":"http://104.7.66.64:8093/;?icy=http"
+      },
+      {
+         "name":"İtalya-İslami Dersler",
+         "radio_url":"http://104.7.66.64:8094/;?icy=http"
+      },
+      {
+         "name":"KSA-Radyo Kuran Mekke",
+         "radio_url":"http://n05.radiojar.com/4wqre23fytzuv?rj-ttl=5&rj-tok=AAABdx73PHEA6O-Q8GLSCrhRTQ"
+      },
+      {
+         "name":"KSA-Alharamayn Sünnet İçin",
+         "radio_url":"http://212.32.255.144:9304/stream.mp3"
+      },
+      {
+         "name":"KSA-Alukah-Al-Quran Al-Kerim",
+         "radio_url":"https://radio.alukah.net/quran"
+      },
+      {
+         "name":"KSA-Alukah-Ulum Al-Quran Kanalı",
+         "radio_url":"https://radio.alukah.net/ulumalquran"
+      },
+      {
+         "name":"KSA-Alukah - El-Fikr",
+         "radio_url":"https://radio.alukah.net/alfikr"
+      },
+      {
+         "name":"Kuveyt-Kuran canlı radyo",
+         "radio_url":"http://s2.voscast.com:12312/;"
+      },
+      {
+         "name":"Kuveyt-Ummü'l-Kuran-ı Kerim",
+         "radio_url":"http://ca.rcast.net:8058/;stream.mp3"
+      },
+      {
+         "name":"Libya-Kitab & Sünnet Radyosu Arapça",
+         "radio_url":"http://162.244.80.118:5678/stream"
+      },
+      {
+         "name":"Libya-Kitab ve Sünnet Radyosu İngilizce",
+         "radio_url":"http://162.244.80.52:6656/stream"
+      },
+      {
+         "name":"Libya-Selef Yolu",
+         "radio_url":"http://www.salafwayfm.ly:8000/fm"
+      },
+      {
+         "name":"Malawi-Radio ISL",
+         "radio_url":"http://178.obj.netromedia.net:8028/;"
+      },
+      {
+         "name":"Mısır-Kuran Radyosu",
+         "radio_url":"http://stream.radiojar.com/8s5u5tpdtwzuv"
+      },
+      {
+         "name":"Mısır-Nil Nehri Radyo İstasyonu",
+         "radio_url":"http://104.7.66.64:8087/;?icy=http"
+      },
+      {
+         "name":"Pakistan-Saut-ul-Kuran",
+         "radio_url":"http://58.65.171.102:8004/stream?type=http&nocache=4"
+      },
+      {
+         "name":"Pakistan-İslam Dersleri",
+         "radio_url":"http://104.7.66.64:8092/;?icy=http"
+      },
+      {
+         "name":"Pakistan-Kuran radyosu",
+         "radio_url":"http://s2.reliastream.com:8239/Tune-In%20Links/;"
+      },
+      {
+         "name":"Rusya-Radyo Vatan",
+         "radio_url":"http://air.radio-dialog.ru:8001/radiovatan"
+      },
+      {
+         "name":"Senegal-Tefsir Kuran",
+         "radio_url":"https://betelgeuse.dribbcast.com/proxy/tafsircoran?mp=/stream"
+      },
+      {
+         "name":"Sudan-Al Zain Kuran",
+         "radio_url":"http://orion.shoutca.st:8118/stream"
+      },
+      {
+         "name":"Tayland-Tayland İslam Radyosu",
+         "radio_url":"http://radio12.plathong.net/7234/;stream.mp3"
+      },
+      {
+         "name":"Tunus-Kuran Radyosu",
+         "radio_url":"http://5.135.194.225:8000/live"
+      },
+      {
+         "name":"Türkiye-Cansuyu FM",
+         "radio_url":"http://radyodinle.cansuyufm.com:17175/;"
+      },
+      {
+         "name":"Yeni Zelanda-Kuran Coran",
+         "radio_url":"http://92.222.103.14:8005/;"
+      }
+   ]
+}

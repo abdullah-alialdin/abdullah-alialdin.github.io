@@ -1,0 +1,68 @@
+{
+  "radios": [
+    {
+      "name":"Общие декламации -1",
+      "radio_url":"http://66.45.232.131:9994/;"
+    },
+    {
+      "name":"Общие декламации -2",
+      "radio_url":"http://live.mp3quran.net:8006/;"
+    },
+    {
+      "name":"Удивительные короткие декламации",
+      "radio_url":"http://live.mp3quran.net:9702/;"
+    },
+    {
+      "name":"Красивые декламации",
+      "radio_url":"http://live.mp3quran.net:9992/;"
+    },
+    {
+      "name":"Сура Аль-Бакара - Многие чтецы",
+      "radio_url":"http://live.mp3quran.net:9722/;"
+    },
+    {
+      "name":"Фетва-1",
+      "radio_url":"http://live.mp3quran.net:8014/;"
+    },
+    {
+      "name":"Фетва-2",
+      "radio_url":"http://server2.quraan.us:9890/;*.mp3"
+    },
+    {
+      "name":"Ид Такбер",
+      "radio_url":"http://live.mp3quran.net:9728/;"
+    },
+    {
+      "name":"Рукья -1",
+      "radio_url":"http://live.mp3quran.net:9936/;"
+    },
+    {
+      "name":"Рукья -2",
+      "radio_url":"http://104.7.66.64:8004/;?icy=http"
+    },
+    {
+      "name":"Рукья -3",
+      "radio_url":"http://quraan.us:9798/;*.mp3"
+    },
+    {
+      "name":"Толкование шаарави",
+      "radio_url":"http://quraan.us:9888/;*.mp3"
+    },
+    {
+      "name":"Интерпретация Саади",
+      "radio_url":"http://quraan.us:9944/;*.mp3"
+    },
+    {
+      "name":"Толкование Корана-1",
+      "radio_url":"http://server2.quraan.us:9318/;*.mp3"
+    },
+    {
+      "name":"Толкование Корана -2",
+      "radio_url":"http://live.mp3quran.net:9718/;"
+    },
+    {
+      "name":"Толкование Корана -3",
+      "radio_url":"http://104.7.66.64:8088/;?icy=http"
+    }
+  ]
+}

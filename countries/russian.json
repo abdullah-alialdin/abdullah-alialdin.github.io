@@ -1,0 +1,220 @@
+{
+   "radios":[
+      {
+         "name":"Австралия - Аль-Баян Радио",
+         "radio_url":"http://s9.viastreaming.net:9645/;stream/1"
+      },
+      {
+         "name":"Австралия - Аль Коран Карим Радио",
+         "radio_url":"http://listen.qkradio.com.au:8382/listen.mp3"
+      },
+      {
+         "name":"Австралия - Ислам 2 День - CH - Исламские песни",
+         "radio_url":"http://islam2day.tv:8000/;"
+      },
+      {
+         "name":"Австралия - Ислам 2 День - CH-Коран",
+         "radio_url":"http://islam2day.tv:3000/;"
+      },
+      {
+         "name":"Бразилия - Португальские исламские лекции",
+         "radio_url":"http://104.7.66.64:8086/;?icy=http"
+      },
+      {
+         "name":"Китай - Китайское исламское радио",
+         "radio_url":"http://104.7.66.64:8002/;?icy=http"
+      },
+      {
+         "name":"Китай - Коран на китайском языке",
+         "radio_url":"http://206.72.199.178:9994/;"
+      },
+      {
+         "name":"Египет - Коран Радио",
+         "radio_url":"http://stream.radiojar.com/8s5u5tpdtwzuv"
+      },
+      {
+         "name":"Египет - Радиостанция реки Нил",
+         "radio_url":"http://104.7.66.64:8087/;?icy=http"
+      },
+      {
+         "name":"Эфиопия - Амхарская радиостанция",
+         "radio_url":"http://104.7.66.64:8000/;?icy=http"
+      },
+      {
+         "name":"Эритрея - Исламские лекции",
+         "radio_url":"http://104.7.66.64:8090/;?icy=http"
+      },
+      {
+         "name":"Франция - Конференции на французском языке",
+         "radio_url":"http://104.7.66.64:8099/;?icy=http"
+      },
+      {
+         "name":"Франция - Ходжарадио 4 Коран",
+         "radio_url":"http://live1.vestaradio.com/KHOJARADIO4quran"
+      },
+      {
+         "name":"Немецко-немецкий лекции",
+         "radio_url":"http://104.7.66.64:9011/;?icy=http"
+      },
+      {
+         "name":"Индия - Керала Малабар Исламское радио",
+         "radio_url":"http://s4.voscast.com:8068/;"
+      },
+      {
+         "name":"Индия - Радио Ислам",
+         "radio_url":"http://radioislamin.out.airtime.pro:8000/radioislamin_a"
+      },
+      {
+         "name":"Индонезия - Радио Latanza Silaturahim",
+         "radio_url":"http://ch1.radiosilaturahim.com:8000/stereo"
+      },
+      {
+         "name":"Италия - Исламские уроки",
+         "radio_url":"http://104.7.66.64:8094/;?icy=http"
+      },
+      {
+         "name":"KSA - Радио Коран Мекка",
+         "radio_url":"http://n05.radiojar.com/4wqre23fytzuv?rj-ttl=5&rj-tok=AAABdx73PHEA6O-Q8GLSCrhRTQ"
+      },
+      {
+         "name":"KSA - Alharamayn За Сунна",
+         "radio_url":"http://212.32.255.144:9304/stream.mp3"
+      },
+      {
+         "name":"KSA - Алука-аль-Коран аль-Карим",
+         "radio_url":"https://radio.alukah.net/quran"
+      },
+      {
+         "name":"KSA - Канал Алуках-Улум Аль-Коран",
+         "radio_url":"https://radio.alukah.net/ulumalquran"
+      },
+      {
+         "name":"KSA - Алука - Аль-Фикр",
+         "radio_url":"https://radio.alukah.net/alfikr"
+      },
+      {
+         "name":"Кувейт - Коран прямой эфир",
+         "radio_url":"http://s2.voscast.com:12312/;"
+      },
+      {
+         "name":"Кувейт - Умм аль-Кувейн Коран",
+         "radio_url":"http://ca.rcast.net:8058/;stream.mp3"
+      },
+      {
+         "name":"Ливия - Китаб и Сунна Радио арабский",
+         "radio_url":"http://162.244.80.118:5678/stream"
+      },
+      {
+         "name":"Ливия - Китаб и Сунна Радио английский",
+         "radio_url":"http://162.244.80.52:6656/stream"
+      },
+      {
+         "name":"Ливия - путь салафов",
+         "radio_url":"http://www.salafwayfm.ly:8000/fm"
+      },
+      {
+         "name":"Малави - Радио Ислам",
+         "radio_url":"http://178.obj.netromedia.net:8028/;"
+      },
+      {
+         "name":"Марокко - Радио Корана",
+         "radio_url":"http://92.222.103.13:8005/stream/1/"
+      },
+      {
+         "name":"Новая Зеландия - Коран Коран",
+         "radio_url":"http://92.222.103.14:8005/;"
+      },
+      {
+         "name":"Пакистан - Саут-уль-Коран",
+         "radio_url":"http://58.65.171.102:8004/stream?type=http&nocache=4"
+      },
+      {
+         "name":"Пакистан - Исламские лекции",
+         "radio_url":"http://104.7.66.64:8092/;?icy=http"
+      },
+      {
+         "name":"Пакистан - радио Корана",
+         "radio_url":"http://s2.reliastream.com:8239/Tune-In%20Links/;"
+      },
+      {
+         "name":"Палестина - Коран Радио",
+         "radio_url":"http://www.quran-radio.org:8002/;stream/1"
+      },
+      {
+         "name":"Россия - Радио Ватан",
+         "radio_url":"http://air.radio-dialog.ru:8001/radiovatan"
+      },
+      {
+         "name":"Сенегал - Тафсир Коран",
+         "radio_url":"https://betelgeuse.dribbcast.com/proxy/tafsircoran?mp=/stream"
+      },
+      {
+         "name":"Южная Африка - Радио Ислам Интернэшнл",
+         "radio_url":"http://listen.radioislam.co.za:8080/radioislam.mp3"
+      },
+      {
+         "name":"Испания - Исламские переговоры",
+         "radio_url":"http://104.7.66.64:8093/;?icy=http"
+      },
+      {
+         "name":"Судан - Аль Заин Коран",
+         "radio_url":"http://orion.shoutca.st:8118/stream"
+      },
+      {
+         "name":"Таиланд - Тайское Исламское Радио",
+         "radio_url":"http://radio12.plathong.net/7234/;stream.mp3"
+      },
+      {
+         "name":"Тунис - Коран Радио",
+         "radio_url":"http://5.135.194.225:8000/live"
+      },
+      {
+         "name":"Турция - Джансуйю FM",
+         "radio_url":"http://radyodinle.cansuyufm.com:17175/;"
+      },
+      {
+         "name":"ОАЭ - Зайед Коран",
+         "radio_url":"https://zayedquran.gov.ae/stream.php"
+      },
+      {
+         "name":"Великобритания - Радио Голос ислама",
+         "radio_url":"http://s6.voscast.com:9980/live.mp3"
+      },
+      {
+         "name":"Великобритания - Радио Полумесяц",
+         "radio_url":"http://icecast.commedia.org.uk:8000/crescent.mp3"
+      },
+      {
+         "name":"Великобритания - Радио Наследие",
+         "radio_url":"http://193.218.160.11:8009/heritageradio1602"
+      },
+      {
+         "name":"Великобритания - Центр исламских лекций",
+         "radio_url":"http://centauri.shoutca.st:8600/;"
+      },
+      {
+         "name":"США - Коран для сердца",
+         "radio_url":"https://edge.mixlr.com/channel/rwumx"
+      },
+      {
+         "name":"США - Милосердие к человечеству (Сира)",
+         "radio_url":"http://104.7.66.64:8089/;?icy=http"
+      },
+      {
+         "name":"США - Рияд ас-Салихин",
+         "radio_url":"http://104.7.66.64:8085/;?icy=http"
+      },
+      {
+         "name":"США - Молодежное радио Deenagers",
+         "radio_url":"http://104.7.66.64:8003/;?icy=http"
+      },
+      {
+         "name":"США - Хадж Радио",
+         "radio_url":"http://104.7.66.64:8005/;?icy=http"
+      },
+      {
+         "name":"США - Женская мудрость",
+         "radio_url":"https://edge.mixlr.com/channel/eterm"
+      }
+   ]
+}

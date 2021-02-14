@@ -17,7 +17,7 @@
          "radio_url":"http://islam2day.tv:3000/;"
       },
       {
-         "name":"Brazil-Palestras islâmicas portuguesas",
+         "name":"Brazil-Portuguese Islamic lectures",
          "radio_url":"http://104.7.66.64:8086/;?icy=http"
       },
       {
@@ -45,7 +45,7 @@
          "radio_url":"http://104.7.66.64:8090/;?icy=http"
       },
       {
-         "name":"France-Conférences en Français",
+         "name":"France-Conferences in French",
          "radio_url":"http://104.7.66.64:8099/;?icy=http"
       },
       {
@@ -53,7 +53,7 @@
          "radio_url":"http://live1.vestaradio.com/KHOJARADIO4quran"
       },
       {
-         "name":"German-Deutsche Vorlesungen",
+         "name":"German-German lectures",
          "radio_url":"http://104.7.66.64:9011/;?icy=http"
       },
       {
@@ -69,7 +69,7 @@
          "radio_url":"http://ch1.radiosilaturahim.com:8000/stereo"
       },
       {
-         "name":"Italy-Lezioni Islamiche",
+         "name":"Italy-Islamic Lessons",
          "radio_url":"http://104.7.66.64:8094/;?icy=http"
       },
       {
@@ -153,7 +153,7 @@
          "radio_url":"http://listen.radioislam.co.za:8080/radioislam.mp3"
       },
       {
-         "name":"Spain-Charlas Islamicas",
+         "name":"Spain-Islamic talks",
          "radio_url":"http://104.7.66.64:8093/;?icy=http"
       },
       {
@@ -169,7 +169,7 @@
          "radio_url":"http://5.135.194.225:8000/live"
       },
       {
-         "name":"Turky-Cansuyu FM",
+         "name":"Turkey-Cansuyu FM",
          "radio_url":"http://radyodinle.cansuyufm.com:17175/;"
       },
       {

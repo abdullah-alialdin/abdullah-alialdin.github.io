@@ -1,0 +1,196 @@
+{
+  "radios":[
+     {
+        "name":"阿卜杜勒巴斯退-阿卜杜勒萨马德 - Warsh",
+        "radio_url":"http://live.mp3quran.net:9956/;"
+     },
+     {
+        "name":"阿卜杜勒巴斯退-阿卜杜勒萨马德 - Warsh",
+        "radio_url":"http://server2.quraan.us:9810/;*.mp3"
+     },
+     {
+        "name":"阿卜杜拉希德-苏菲 - Abu Al-Harith",
+        "radio_url":"http://quraan.us:9836/;*.mp3"
+     },
+     {
+        "name":"阿卜杜拉希德-苏菲 - Al-Duri",
+        "radio_url":"http://server2.quraan.us:9830/;*.mp3"
+     },
+     {
+        "name":"阿卜杜拉希德-苏菲 - Alsossi",
+        "radio_url":"http://server2.quraan.us:9826/;*.mp3"
+     },
+     {
+        "name":"阿卜杜拉希德-苏菲 - Alsossi",
+        "radio_url":"http://live.mp3quran.net:9866/;"
+     },
+     {
+        "name":"阿卜杜拉希德-苏菲 - Khalaf",
+        "radio_url":"http://server2.quraan.us:9824/;*.mp3"
+     },
+     {
+        "name":"阿卜杜拉希德-苏菲 - Khalaf",
+        "radio_url":"http://live.mp3quran.net:9864/;"
+     },
+     {
+        "name":"阿卜杜拉希德-苏菲 - Shubah",
+        "radio_url":"http://quraan.us:9866/;*.mp3"
+     },
+     {
+        "name":"到卡里 穆罕默德 阿莱木 - Qalon",
+        "radio_url":"http://server2.quraan.us:9818/;*.mp3"
+     },
+     {
+        "name":"到卡里 穆罕默德 阿莱木 - Qalon",
+        "radio_url":"http://live.mp3quran.net:9916/;"
+     },
+     {
+        "name":"艾哈迈德 胡都雷 艾勒太拉布里斯 - Qalon",
+        "radio_url":"http://live.mp3quran.net:9924/;"
+     },
+     {
+        "name":"艾哈迈德 艾勒太拉布里斯 - Qalon",
+        "radio_url":"http://server2.quraan.us:9820/;*.mp3"
+     },
+     {
+        "name":"艾哈迈德 艾勒太拉布里斯 - Qalon",
+        "radio_url":"http://live.mp3quran.net:9926/;"
+     },
+     {
+        "name":"艾勒法提哈 艾勒祖拜日 - Aldori",
+        "radio_url":"http://server2.quraan.us:9832/;*.mp3"
+     },
+     {
+        "name":"艾勒法提哈 艾勒祖拜日 - Aldori",
+        "radio_url":"http://live.mp3quran.net:9910/;"
+     },
+     {
+        "name":"阿里-艾勒胡宰非 - Qalon",
+        "radio_url":"http://server2.quraan.us:9816/;*.mp3"
+     },
+     {
+        "name":"阿里-艾勒胡宰非 - Qalon",
+        "radio_url":"http://live.mp3quran.net:9844/;"
+     },
+     {
+        "name":"艾勒欧尤尼-艾勒库什 - Warsh",
+        "radio_url":"http://quraan.us:9876/;*.mp3"
+     },
+     {
+        "name":"艾勒欧尤尼-艾勒库什 - Warsh",
+        "radio_url":"http://live.mp3quran.net:9912/;"
+     },
+     {
+        "name":"易卜拉欣-艾勒杜外斯里 - Warsh",
+        "radio_url":"http://server2.quraan.us:9812/;*.mp3"
+     },
+     {
+        "name":"易卜拉欣-艾勒杜外斯里 - Warsh",
+        "radio_url":"http://live.mp3quran.net:9902/;"
+     },
+     {
+        "name":"玛吉·比尔塔吉 - Dhakwan",
+        "radio_url":"http://quraan.us:9864/;*.mp3"
+     },
+     {
+        "name":"马赫茂德-艾勒晒米 - Aldori",
+        "radio_url":"http://live.mp3quran.net:9812/;"
+     },
+     {
+        "name":"马赫茂德-哈利勒-艾勒合素里 - Warsh",
+        "radio_url":"http://live.mp3quran.net:9958/;"
+     },
+     {
+        "name":"马赫茂德-哈利勒-艾勒合素里 - Qalon",
+        "radio_url":"http://server2.quraan.us:9814/;*.mp3"
+     },
+     {
+        "name":"马赫茂德-哈利勒-艾勒合素里 - Aldori",
+        "radio_url":"http://quraan.us:9870/;*.mp3"
+     },
+     {
+        "name":"穆罕默德·泰耶布·哈姆丹 - Warsh",
+        "radio_url":"http://server2.quraan.us:9806/;*.mp3"
+     },
+     {
+        "name":"穆罕默德-阿卜杜勒克里姆 - Warsh",
+        "radio_url":"http://live.mp3quran.net:9824/;"
+     },
+     {
+        "name":"穆罕默德-阿卜杜勒哈吉木-萨义德-艾勒阿卜杜拉 - Aldori",
+        "radio_url":"http://live.mp3quran.net:9816/;"
+     },
+     {
+        "name":"穆罕默德-阿卜杜勒哈吉木-萨义德-艾勒阿卜杜拉 - Albezi",
+        "radio_url":"http://live.mp3quran.net:9814/;"
+     },
+     {
+        "name":"米夫塔-艾勒赛勒塔尼 - Aldori",
+        "radio_url":"http://server2.quraan.us:9828/;*.mp3"
+     },
+     {
+        "name":"米夫塔-艾勒赛勒塔尼 - Aldori",
+        "radio_url":"http://live.mp3quran.net:9794/;"
+     },
+     {
+        "name":"米夫塔-艾勒赛勒塔尼 - Aldorai",
+        "radio_url":"http://live.mp3quran.net:9792/;"
+     },
+     {
+        "name":"米夫塔-艾勒赛勒塔尼 - Ruways",
+        "radio_url":"http://server2.quraan.us:9800/;*.mp3"
+     },
+     {
+        "name":"米夫塔-艾勒赛勒塔尼 - Ibn Jummaz",
+        "radio_url":"http://server2.quraan.us:9942/;*.mp3"
+     },
+     {
+        "name":"米夫塔-艾勒赛勒塔尼 - Ruh",
+        "radio_url":"http://server2.quraan.us:9872/;*.mp3"
+     },
+     {
+        "name":"米夫塔-艾勒赛勒塔尼 - Thakwan",
+        "radio_url":"http://live.mp3quran.net:9788/;"
+     },
+     {
+        "name":"穆斯塔法·加尔比 - Warsh",
+        "radio_url":"http://server2.quraan.us:9804/;*.mp3"
+     },
+     {
+        "name":"欧玛尔-艾勒歌扎比利 - Warsh",
+        "radio_url":"http://server2.quraan.us:9808/;*.mp3"
+     },
+     {
+        "name":"欧玛尔-艾勒歌扎比利 - Warsh",
+        "radio_url":"http://live.mp3quran.net:9838/;"
+     },
+     {
+        "name":"塔雷哥 阿不都额尼 戴欧布 - Qalon",
+        "radio_url":"http://live.mp3quran.net:9876/;"
+     },
+     {
+        "name":"瓦利德-艾勒纳伊合 - Qalon",
+        "radio_url":"http://live.mp3quran.net:9778/;"
+     },
+     {
+        "name":"亚辛·贾扎里 - Warsh",
+        "radio_url":"http://server2.quraan.us:9802/;*.mp3"
+     },
+     {
+        "name":"亚辛·贾扎里 - Warsh",
+        "radio_url":"http://live.mp3quran.net:9908/;"
+     },
+     {
+        "name":"亚瑟尔-艾勒麦兹鲁尔 - Ruways",
+        "radio_url":"http://live.mp3quran.net:9774/;"
+     },
+     {
+        "name":"亚瑟尔-艾勒麦兹鲁尔 - Ruways",
+        "radio_url":"http://server2.quraan.us:9822/;*.mp3"
+     },
+     {
+        "name":"优素福·本·诺亚·艾哈迈德 - Al-Bizzi",
+        "radio_url":"http://quraan.us:9868/;*.mp3"
+     }
+  ]
+}

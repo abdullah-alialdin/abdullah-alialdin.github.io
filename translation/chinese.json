@@ -1,183 +1,183 @@
 {
    "radios":[
       {
-         "name":"Quran in Pashto",
+         "name":"古兰经在普什图语",
          "radio_url":"http://server2.quraan.us:9874/;*.mp3"
       },
       {
-         "name":"Quran in Bengali",
+         "name":"孟加拉语中的古兰经",
          "radio_url":"http://server2.quraan.us:9998/;*.mp3"
       },
       {
-         "name":"Quran in Uyghur",
+         "name":"维吾尔语中的古兰经",
          "radio_url":"http://server2.quraan.us:9950/;*.mp3"
       },
       {
-         "name":"Quran in Indonesian",
+         "name":"古兰经印度尼西亚文",
          "radio_url":"http://server2.quraan.us:9978/;*.mp3"
       },
       {
-         "name":"Quran in Tamil",
+         "name":"泰米尔语中的古兰经",
          "radio_url":"http://quraan.us:9956/;*.mp3"
       },
       {
-         "name":"Quran in Punjabi",
+         "name":"旁遮普语中的古兰经",
          "radio_url":"http://server2.quraan.us:9940/;*.mp3"
       },
       {
-         "name":"Quran in Kannada",
+         "name":"卡纳达语中的古兰经",
          "radio_url":"http://quraan.us:9976/;*.mp3"
       },
       {
-         "name":"Quran in Malayalam",
+         "name":"古兰经在马拉雅拉姆语",
          "radio_url":"http://server2.quraan.us:9968/;*.mp3"
       },
       {
-         "name":"Quran in Telugu",
+         "name":"泰卢固语中的古兰经",
          "radio_url":"http://server2.quraan.us:9954/;*.mp3"
       },
       {
-         "name":"Quran in Chinese",
+         "name":"古兰经》",
          "radio_url":"http://server2.quraan.us:9992/;*.mp3"
       },
       {
-         "name":"Quran in Hindi",
+         "name":"印地文的古兰经",
          "radio_url":"http://quraan.us:9982/;*.mp3"
       },
       {
-         "name":"Quran in Urdu",
+         "name":"乌尔都语中的古兰经",
          "radio_url":"http://quraan.us:9952/;*.mp3"
       },
       {
-         "name":"Quran in Malay",
+         "name":"马来古兰经",
          "radio_url":"http://quraan.us:9932/;*.mp3"
       },
       {
-         "name":"Quran in Kashmiri",
+         "name":"克什米尔语中的古兰经",
          "radio_url":"http://server2.quraan.us:9974/;*.mp3"
       },
       {
-         "name":"Quran in Tagalog",
+         "name":"他加禄语中的古兰经",
          "radio_url":"http://server2.quraan.us:9946/;*.mp3"
       },
       {
-         "name":"Quran in Sinhalese",
+         "name":"僧伽罗语中的古兰经",
          "radio_url":"http://quraan.us:9962/;*.mp3"
       },
       {
-         "name":"Quran in Vietnamese",
+         "name":"越南语中的古兰经",
          "radio_url":"http://server2.quraan.us:9948/;*.mp3"
       },
       {
-         "name":"Quran in Thai",
+         "name":"古兰经",
          "radio_url":"http://server2.quraan.us:9938/;*.mp3"
       },
       {
-         "name":"Quran in Korean",
+         "name":"韩文的古兰经",
          "radio_url":"http://quraan.us:9972/;*.mp3"
       },
       {
-         "name":"Quran in Farsi",
+         "name":"波斯古兰经",
          "radio_url":"http://quraan.us:9936/;*.mp3"
       },
       {
-         "name":"Quran in Kurdish",
+         "name":"库兰语中的古兰经",
          "radio_url":"http://server2.quraan.us:9970/;*.mp3"
       },
       {
-         "name":"Quran in Latin-Spanish",
+         "name":"古兰经》,西班牙文",
          "radio_url":"http://server2.quraan.us:9328/;*.mp3"
       },
       {
-         "name":"Quran in Turkish",
+         "name":"土耳其文的古兰经",
          "radio_url":"http://server2.quraan.us:9324/;*.mp3"
       },
       {
-         "name":"Quran in Swedish",
+         "name":"瑞典文的古兰经",
          "radio_url":"http://quraan.us:9772/;*.mp3"
       },
       {
-         "name":"Quran in Romanian",
+         "name":"古兰经罗马尼亚文",
          "radio_url":"http://server2.quraan.us:9774/;*.mp3"
       },
       {
-         "name":"Quran in Greek",
+         "name":"古兰经希腊文",
          "radio_url":"http://server2.quraan.us:9984/;*.mp3"
       },
       {
-         "name":"Quran in Albanian",
+         "name":"阿尔巴尼亚语的古兰经",
          "radio_url":"http://quraan.us:9996/;*.mp3"
       },
       {
-         "name":"Quran in Bosnian",
+         "name":"波斯尼亚语中的古兰经",
          "radio_url":"http://server2.quraan.us:9994/;*.mp3"
       },
       {
-         "name":"Quran in Portuguese",
+         "name":"葡萄牙语的古兰经",
          "radio_url":"http://quraan.us:9966/;*.mp3"
       },
       {
-         "name":"Quran in Spanish",
+         "name":"西班牙文的古兰经",
          "radio_url":"http://quraan.us:9960/;*.mp3"
       },
       {
-         "name":"Quran in Russian",
+         "name":"古兰经",
          "radio_url":"http://server2.quraan.us:9964/;*.mp3"
       },
       {
-         "name":"Quran in German",
+         "name":"德文的古兰经",
          "radio_url":"http://quraan.us:9986/;*.mp3"
       },
       {
-         "name":"Quran in English",
+         "name":"古兰经英语",
          "radio_url":"http://server2.quraan.us:9990/;*.mp3"
       },
       {
-         "name":"Quran in Italian",
+         "name":"古兰经",
          "radio_url":"http://server2.quraan.us:9924/;*.mp3"
       },
       {
-         "name":"Quran in French",
+         "name":"法文的古兰经",
          "radio_url":"http://quraan.us:9988/;*.mp3"
       },
       {
-         "name":"Quran in Hungarian",
+         "name":"匈牙利文的古兰经",
          "radio_url":"http://server2.quraan.us:9980/;*.mp3"
       },
       {
-         "name":"Quran in Yoruba",
+         "name":"约兰语中的古兰经",
          "radio_url":"http://quraan.us:9878/;*.mp3"
       },
       {
-         "name":"Quran in Oromo",
+         "name":"奥罗莫语中的古兰经",
          "radio_url":"http://quraan.us:9928/;*.mp3"
       },
       {
-         "name":"Quran in Tamazight",
+         "名称":"古兰经在Tamazight",
          "radio_url":"http://server2.quraan.us:9958/;*.mp3"
       },
       {
-         "name":"Quran in Somali",
+         "name":"索马里古兰经",
          "radio_url":"http://quraan.us:9930/;*.mp3"
       },
       {
-         "name":"Quran in Nigerian",
+         "name":"尼日利亚古兰经",
          "radio_url":"http://quraan.us:9934/;*.mp3"
       },
       {
-         "name":"Tafsir in Fulani",
+         "名称":"富拉尼中的塔夫西尔",
          "radio_url":"http://server2.quraan.us:9834/;*.mp3"
       },
       {
-         "name":"Russia-Qur’an Recitation with a Reading of Tafsir Al-Sa`di",
+         "name":"俄罗斯古兰经朗诵与塔夫西尔·萨迪的读物",
          "radio_url":"http://server2.quraan.us:9862/;*.mp3"
       },
       {
-         "name":"Tafsir in Swahili",
+         "name":"斯瓦希里语中的塔夫西尔",
          "radio_url":"http://quraan.us:9860/;*.mp3"
       },
       {
-         "name":"Tafsir in Amharic",
+         "name":"阿姆哈拉语中的塔夫西尔",
          "radio_url":"http://quraan.us:9880/;*.mp3"
       }
    ]

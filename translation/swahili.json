@@ -1,183 +1,183 @@
 {
    "radios":[
       {
-         "name":"Quran in Pashto",
+         "name":"Quran kwa Kipashto",
          "radio_url":"http://server2.quraan.us:9874/;*.mp3"
       },
       {
-         "name":"Quran in Bengali",
+         "name":"Quran kwa Kibengali",
          "radio_url":"http://server2.quraan.us:9998/;*.mp3"
       },
       {
-         "name":"Quran in Uyghur",
+         "name":"Quran katika Uyghur",
          "radio_url":"http://server2.quraan.us:9950/;*.mp3"
       },
       {
-         "name":"Quran in Indonesian",
+         "name":"Quran kwa Kiindonesia",
          "radio_url":"http://server2.quraan.us:9978/;*.mp3"
       },
       {
-         "name":"Quran in Tamil",
+         "name":"Quran kwa Kitamil",
          "radio_url":"http://quraan.us:9956/;*.mp3"
       },
       {
-         "name":"Quran in Punjabi",
+         "name":"Quran kwa Kipunjabi",
          "radio_url":"http://server2.quraan.us:9940/;*.mp3"
       },
       {
-         "name":"Quran in Kannada",
+         "name":"Quran katika Kikannada",
          "radio_url":"http://quraan.us:9976/;*.mp3"
       },
       {
-         "name":"Quran in Malayalam",
+         "name":"Quran kwa Kimalayalam",
          "radio_url":"http://server2.quraan.us:9968/;*.mp3"
       },
       {
-         "name":"Quran in Telugu",
+         "name":"Quran kwa Kitelugu",
          "radio_url":"http://server2.quraan.us:9954/;*.mp3"
       },
       {
-         "name":"Quran in Chinese",
+         "name":"Quran kwa Kichina",
          "radio_url":"http://server2.quraan.us:9992/;*.mp3"
       },
       {
-         "name":"Quran in Hindi",
+         "name":"Quran kwa Kihindi",
          "radio_url":"http://quraan.us:9982/;*.mp3"
       },
       {
-         "name":"Quran in Urdu",
+         "name":"Quran kwa Kiurdu",
          "radio_url":"http://quraan.us:9952/;*.mp3"
       },
       {
-         "name":"Quran in Malay",
+         "name":"Quran kwa Kimalesia",
          "radio_url":"http://quraan.us:9932/;*.mp3"
       },
       {
-         "name":"Quran in Kashmiri",
+         "name":"Quran katika Kikashmiri",
          "radio_url":"http://server2.quraan.us:9974/;*.mp3"
       },
       {
-         "name":"Quran in Tagalog",
+         "name":"Quran kwa Tagalog",
          "radio_url":"http://server2.quraan.us:9946/;*.mp3"
       },
       {
-         "name":"Quran in Sinhalese",
+         "name":"Quran katika Sinhalese",
          "radio_url":"http://quraan.us:9962/;*.mp3"
       },
       {
-         "name":"Quran in Vietnamese",
+         "name":"Quran katika Kivietinamu",
          "radio_url":"http://server2.quraan.us:9948/;*.mp3"
       },
       {
-         "name":"Quran in Thai",
+         "name":"Quran kwa Kithai",
          "radio_url":"http://server2.quraan.us:9938/;*.mp3"
       },
       {
-         "name":"Quran in Korean",
+         "name":"Quran kwa Kikorea",
          "radio_url":"http://quraan.us:9972/;*.mp3"
       },
       {
-         "name":"Quran in Farsi",
+         "name":"Quran katika Kiajemi",
          "radio_url":"http://quraan.us:9936/;*.mp3"
       },
       {
-         "name":"Quran in Kurdish",
+         "name":"Quran kwa Kikurdi",
          "radio_url":"http://server2.quraan.us:9970/;*.mp3"
       },
       {
-         "name":"Quran in Latin-Spanish",
+         "name":"Quran kwa Kilatini-Kihispania",
          "radio_url":"http://server2.quraan.us:9328/;*.mp3"
       },
       {
-         "name":"Quran in Turkish",
+         "name":"Quran kwa Kituruki",
          "radio_url":"http://server2.quraan.us:9324/;*.mp3"
       },
       {
-         "name":"Quran in Swedish",
+         "name":"Quran kwa Kiswidi",
          "radio_url":"http://quraan.us:9772/;*.mp3"
       },
       {
-         "name":"Quran in Romanian",
+         "name":"Quran kwa Kiromania",
          "radio_url":"http://server2.quraan.us:9774/;*.mp3"
       },
       {
-         "name":"Quran in Greek",
+         "name":"Quran kwa Kigiriki",
          "radio_url":"http://server2.quraan.us:9984/;*.mp3"
       },
       {
-         "name":"Quran in Albanian",
+         "name":"Quran kwa Kialbania",
          "radio_url":"http://quraan.us:9996/;*.mp3"
       },
       {
-         "name":"Quran in Bosnian",
+         "name":"Quran katika Kibosnia",
          "radio_url":"http://server2.quraan.us:9994/;*.mp3"
       },
       {
-         "name":"Quran in Portuguese",
+         "name":"Quran kwa Kireno",
          "radio_url":"http://quraan.us:9966/;*.mp3"
       },
       {
-         "name":"Quran in Spanish",
+         "name":"Quran kwa Kihispania",
          "radio_url":"http://quraan.us:9960/;*.mp3"
       },
       {
-         "name":"Quran in Russian",
+         "name":"Quran kwa Kirusi",
          "radio_url":"http://server2.quraan.us:9964/;*.mp3"
       },
       {
-         "name":"Quran in German",
+         "name":"Quran kwa Kijerumani",
          "radio_url":"http://quraan.us:9986/;*.mp3"
       },
       {
-         "name":"Quran in English",
+         "name":"Quran kwa Kiingereza",
          "radio_url":"http://server2.quraan.us:9990/;*.mp3"
       },
       {
-         "name":"Quran in Italian",
+         "name":"Quran kwa Kiitaliano",
          "radio_url":"http://server2.quraan.us:9924/;*.mp3"
       },
       {
-         "name":"Quran in French",
+         "name":"Quran kwa Kifaransa",
          "radio_url":"http://quraan.us:9988/;*.mp3"
       },
       {
-         "name":"Quran in Hungarian",
+         "name":"Quran kwa Kihungari",
          "radio_url":"http://server2.quraan.us:9980/;*.mp3"
       },
       {
-         "name":"Quran in Yoruba",
+         "name":"Quran kwa Kiyoruba",
          "radio_url":"http://quraan.us:9878/;*.mp3"
       },
       {
-         "name":"Quran in Oromo",
+         "name":"Quran katika Kioromo",
          "radio_url":"http://quraan.us:9928/;*.mp3"
       },
       {
-         "name":"Quran in Tamazight",
+         "name":"Quran katika Tamazight",
          "radio_url":"http://server2.quraan.us:9958/;*.mp3"
       },
       {
-         "name":"Quran in Somali",
+         "name":"Quran kwa Kisomali",
          "radio_url":"http://quraan.us:9930/;*.mp3"
       },
       {
-         "name":"Quran in Nigerian",
+         "name":"Quran kwa Kinigeria",
          "radio_url":"http://quraan.us:9934/;*.mp3"
       },
       {
-         "name":"Tafsir in Fulani",
+         "name":"Tafsir katika Fulani",
          "radio_url":"http://server2.quraan.us:9834/;*.mp3"
       },
       {
-         "name":"Russia-Qur’an Recitation with a Reading of Tafsir Al-Sa`di",
+         "name":"Usomaji wa Urusi-Qur'ani na Usomaji wa Tafsir Al-Sa`di",
          "radio_url":"http://server2.quraan.us:9862/;*.mp3"
       },
       {
-         "name":"Tafsir in Swahili",
+         "name":"Tafsir kwa Kiswahili",
          "radio_url":"http://quraan.us:9860/;*.mp3"
       },
       {
-         "name":"Tafsir in Amharic",
+         "name":"Tafsir katika Kiamhari",
          "radio_url":"http://quraan.us:9880/;*.mp3"
       }
    ]

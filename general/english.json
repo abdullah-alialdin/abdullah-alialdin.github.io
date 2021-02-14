@@ -1,46 +1,68 @@
-{"radios": [
-  {
-    "name":"General Recitations -1",
-    "radio_url":"http://66.45.232.131:9994/;"
-  },
-  {
-    "name":"General Recitations -2",
-    "radio_url":"http://live.mp3quran.net:8006/;"
-  },
-  {
-    "name":"Amazing short Recitations",
-    "radio_url":"http://live.mp3quran.net:9702/;"
-  },
-  {
-    "name":"Beautiful Recitations",
-    "radio_url":"http://live.mp3quran.net:9992/;"
-  },
-  {
-    "name":"Surah Al-Baqarah - Many Reciters",
-    "radio_url":"http://live.mp3quran.net:9722/;"
-  },
-  {
-    "name":"FATAWA-2",
-    "radio_url":"http://live.mp3quran.net:8014/;"
-  },
-  {
-    "name":"EID's TAKBEER",
-    "radio_url":"http://live.mp3quran.net:9728/;"
-  },
-  {
-    "name":"Roqyah-1",
-    "radio_url":"http://live.mp3quran.net:9936/;"
-  },
-  {
-    "name":"Roqyah-2",
-    "radio_url":"http://104.7.66.64:8004/;?icy=http"
-  },
-  {
-    "name":"Quran Tafseer-1",
-    "radio_url":"http://live.mp3quran.net:9718/;"
-  },
-  {
-    "name":"Quran Tafseer-2",
-    "radio_url":"http://104.7.66.64:8088/;?icy=http"
-  }
-]}
+{
+  "radios": [
+    {
+      "name":"General Recitations -1",
+      "radio_url":"http://66.45.232.131:9994/;"
+    },
+    {
+      "name":"General Recitations -2",
+      "radio_url":"http://live.mp3quran.net:8006/;"
+    },
+    {
+      "name":"Amazing short Recitations",
+      "radio_url":"http://live.mp3quran.net:9702/;"
+    },
+    {
+      "name":"Beautiful Recitations",
+      "radio_url":"http://live.mp3quran.net:9992/;"
+    },
+    {
+      "name":"Surah Al-Baqarah - Many Reciters",
+      "radio_url":"http://live.mp3quran.net:9722/;"
+    },
+    {
+      "name":"Fatwa -1",
+      "radio_url":"http://live.mp3quran.net:8014/;"
+    },
+    {
+      "name":"Fatwa -2",
+      "radio_url":"http://server2.quraan.us:9890/;*.mp3"
+    },
+    {
+      "name":"Eid's Takbeer",
+      "radio_url":"http://live.mp3quran.net:9728/;"
+    },
+    {
+      "name":"Roqyah -1",
+      "radio_url":"http://live.mp3quran.net:9936/;"
+    },
+    {
+      "name":"Roqyah -2",
+      "radio_url":"http://104.7.66.64:8004/;?icy=http"
+    },
+    {
+      "name":"Roqyah -3",
+      "radio_url":"http://quraan.us:9798/;*.mp3"
+    },
+    {
+      "name":"Tafseer Al-Sha`rawi",
+      "radio_url":"http://quraan.us:9888/;*.mp3"
+    },
+    {
+      "name":"Tafseer Al-Sa`di",
+      "radio_url":"http://quraan.us:9944/;*.mp3"
+    },
+  	{
+    	"name":"Quran Tafseer -1",
+    	"radio_url":"http://server2.quraan.us:9318/;*.mp3"
+  	},
+    {
+      "name":"Quran Tafseer -2",
+      "radio_url":"http://live.mp3quran.net:9718/;"
+    },
+    {
+      "name":"Quran Tafseer -3",
+      "radio_url":"http://104.7.66.64:8088/;?icy=http"
+    }
+  ]
+}

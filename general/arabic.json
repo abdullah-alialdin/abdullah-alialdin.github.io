@@ -20,6 +20,10 @@
     "radio_url":"http://live.mp3quran.net:9722/;"
   },
   {
+    "name":"الفتاوى -1",
+    "radio_url":"http://server2.quraan.us:9890/;*.mp3"
+  },
+  {
     "name":"الفتاوى -2",
     "radio_url":"http://live.mp3quran.net:8014/;"
   },
@@ -36,11 +40,27 @@
     "radio_url":"http://104.7.66.64:8004/;?icy=http"
   },
   {
+    "name":"الرفية الشرعية -3",
+    "radio_url":"http://quraan.us:9798/;*.mp3"
+  },
+  {
+    "name":"تفسير الشعراوي",
+    "radio_url":"http://quraan.us:9888/;*.mp3"
+  },
+  {
+    "name":"تفسير السعدي",
+    "radio_url":"http://quraan.us:9944/;*.mp3"
+  },
+  {
     "name":"تفسير القرآن -1",
-    "radio_url":"http://live.mp3quran.net:9718/;"
+    "radio_url":"http://server2.quraan.us:9318/;*.mp3"
   },
   {
     "name":"تفسير القرآن -2",
+    "radio_url":"http://live.mp3quran.net:9718/;"
+  },
+  {
+    "name":"تفسير القرآن -3",
     "radio_url":"http://104.7.66.64:8088/;?icy=http"
   }
 ]}
