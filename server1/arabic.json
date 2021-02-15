@@ -5,10 +5,6 @@
          "radio_url":"http://server2.quraan.us:9840/;*.mp3"
       },
       {
-         "name":"إدريس أبكر",
-         "radio_url":"http://server2.quraan.us:9300/;*.mp3"
-      },
-      {
          "name":"أحمد العجمي",
          "radio_url":"http://server2.quraan.us:9852/;*.mp3"
       },
@@ -49,10 +45,6 @@
          "radio_url":"http://quraan.us:9892/;*.mp3"
       },
       {
-         "name":"شايع التميمي",
-         "radio_url":"http://server2.quraan.us:9320/;*.mp3"
-      },
-      {
          "name":"عبدالباري الثبيتي",
          "radio_url":"http://server2.quraan.us:9790/;*.mp3"
       },
@@ -65,20 +57,12 @@
          "radio_url":"http://quraan.us:9914/;*.mp3"
       },
       {
-         "name":"عبدالعزيز الزهراني",
-         "radio_url":"http://server2.quraan.us:9302/;*.mp3"
-      },
-      {
          "name":"عبدالله الجهني",
          "radio_url":"http://server2.quraan.us:9910/;*.mp3"
       },
       {
          "name":"عبدالله بصفر",
          "radio_url":"http://quraan.us:9846/;*.mp3"
-      },
-      {
-         "name":"عبدالله الخياط",
-         "radio_url":"http://server2.quraan.us:9908/;*.mp3"
       },
       {
          "name":"عبدالمحسن القاسم",
@@ -93,10 +77,6 @@
          "radio_url":"http://quraan.us:9850/;*.mp3"
       },
       {
-         "name":"عبدالوالي الأركاني",
-         "radio_url":"http://quraan.us:9304/;*.mp3"
-      },
-      {
          "name":"على الحزيفي",
          "radio_url":"http://quraan.us:9844/;*.mp3"
       },
@@ -107,10 +87,6 @@
       {
          "name":"فارس عباد",
          "radio_url":"http://server2.quraan.us:9904/;*.mp3"
-      },
-      {
-         "name":"فهد الكندري",
-         "radio_url":"http://server2.quraan.us:9306/;*.mp3"
       },
       {
          "name":"ماهر المعيقلي",
