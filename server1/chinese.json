@@ -9,10 +9,6 @@
          "radio_url":"http://quraan.us:9914/;*.mp3"
       },
       {
-         "name":"阿卜杜勒阿齐兹·阿扎哈恩",
-         "radio_url":"http://server2.quraan.us:9302/;*.mp3"
-      },
-      {
          "name":"阿卜杜勒巴斯·阿卜杜勒萨玛德",
          "radio_url":"http://quraan.us:9916/;*.mp3"
       },
@@ -25,10 +21,6 @@
          "radio_url":"http://quraan.us:9846/;*.mp3"
       },
       {
-         "name":"阿卜杜拉·哈亚特",
-         "radio_url":"http://server2.quraan.us:9908/;*.mp3"
-      },
-      {
          "name":"阿卜杜勒·莫森·卡西姆",
          "radio_url":"http://quraan.us:9842/;*.mp3"
       },
@@ -39,10 +31,6 @@
       {
          "name":"阿卜杜勒·拉赫曼·阿尔苏达伊",
          "radio_url":"http://quraan.us:9850/;*.mp3"
-      },
-      {
-         "name":"阿卜杜勒·瓦利·阿尔·阿卡尼",
-         "radio_url":"http://quraan.us:9304/;*.mp3"
       },
       {
          "name":"艾哈迈德·阿格米",
@@ -61,20 +49,12 @@
          "radio_url":"http://server2.quraan.us:9904/;*.mp3"
       },
       {
-         "name":"法哈德·坎达里",
-         "radio_url":"http://server2.quraan.us:9306/;*.mp3"
-      },
-      {
          "name":"哈尼·阿拉菲",
          "radio_url":"http://quraan.us:9902/;*.mp3"
       },
       {
          "name":"易卜拉欣·阿赫达尔",
          "radio_url":"http://server2.quraan.us:9840/;*.mp3"
-      },
-      {
-         "name":"伊德里斯",
-         "radio_url":"http://server2.quraan.us:9300/;*.mp3"
       },
       {
          "name":"吉兹·阿尔·斯韦雷",
@@ -155,10 +135,6 @@
       {
          "name":"谢赫·阿布·巴克尔·阿尔两部分",
          "radio_url":"http://quraan.us:9892/;*.mp3"
-      },
-      {
-         "name":"莎雅·阿塔米",
-         "radio_url":"http://server2.quraan.us:9320/;*.mp3"
       },
       {
          "name":"陶菲克-塞赫",
