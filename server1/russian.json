@@ -9,10 +9,6 @@
          "radio_url":"http://quraan.us:9914/;*.mp3"
       },
       {
-         "name":"Абдулазиз Аз-Захрани",
-         "radio_url":"http://server2.quraan.us:9302/;*.mp3"
-      },
-      {
          "name":"Абдулбасит Абдулсамад",
          "radio_url":"http://quraan.us:9916/;*.mp3"
       },
@@ -25,10 +21,6 @@
          "radio_url":"http://quraan.us:9846/;*.mp3"
       },
       {
-         "name":"Абдулла Хайят",
-         "radio_url":"http://server2.quraan.us:9908/;*.mp3"
-      },
-      {
          "name":"Абдулмохсен Аль-Касим",
          "radio_url":"http://quraan.us:9842/;*.mp3"
       },
@@ -39,10 +31,6 @@
       {
          "name":"Абдулрахман Алсудаес",
          "radio_url":"http://quraan.us:9850/;*.mp3"
-      },
-      {
-         "name":"Абдулвали аль-Аркани",
-         "radio_url":"http://quraan.us:9304/;*.mp3"
       },
       {
          "name":"Ахмад Аль-Аджми",
@@ -61,20 +49,12 @@
          "radio_url":"http://server2.quraan.us:9904/;*.mp3"
       },
       {
-         "name":"Фахд Аль-Кандари",
-         "radio_url":"http://server2.quraan.us:9306/;*.mp3"
-      },
-      {
          "name":"Хани Аррифай",
          "radio_url":"http://quraan.us:9902/;*.mp3"
       },
       {
          "name":"Ибрагим Аль-Акдар",
          "radio_url":"http://server2.quraan.us:9840/;*.mp3"
-      },
-      {
-         "name":"Идрис Абкр",
-         "radio_url":"http://server2.quraan.us:9300/;*.mp3"
       },
       {
          "name":"Джазза Аль-Сувейлих",
@@ -155,10 +135,6 @@
       {
          "name":"Шайк Абу Бакр Аль Шатри",
          "radio_url":"http://quraan.us:9892/;*.mp3"
-      },
-      {
-         "name":"Шая Ат-Тамими",
-         "radio_url":"http://server2.quraan.us:9320/;*.mp3"
       },
       {
          "name":"Тауфик Ассиг",
